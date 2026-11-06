@@ -7,10 +7,13 @@ __pycache__/
 *.pyc
 *.pyo
 
-# SQLite runtime data
-*.db
+# SQLite runtime data (keep the main app database, ignore temp/bak files)
 *.db-shm
 *.db-wal
+*.db.bak
+*.bak
+!assets/data/fisher.db
+!database-snapshots/xyzcs_replica.db
 
 # Large archives / binaries over GitHub 100MB limit
 assets/apk-builder.zip
