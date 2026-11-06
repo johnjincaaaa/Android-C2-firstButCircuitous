@@ -1,0 +1,51 @@
+.class public final Lkotlin/Metadata$DefaultImpls;
+.super Ljava/lang/Object;
+.source "r8-map-id-698ec2db7698d3a05f45ca7bd25479f75e72e3f151868426bc4d05779f175955"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lkotlin/Metadata;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = "DefaultImpls"
+.end annotation
+
+.annotation runtime Lkotlin/Metadata;
+    k = 0x3
+    mv = {
+        0x1,
+        0x9,
+        0x0
+    }
+    xi = 0x30
+.end annotation
+
+
+# direct methods
+.method public static synthetic bv$annotations()V
+    .locals 0
+    .annotation runtime Lkotlin/Deprecated;
+        level = .enum Lkotlin/DeprecationLevel;->WARNING:Lkotlin/DeprecationLevel;
+        message = "Bytecode version had no significant use in Kotlin metadata and it will be removed in a future version."
+    .end annotation
+
+    .line 1
+    return-void
+.end method
+
+.method public static synthetic pn$annotations()V
+    .locals 0
+
+    .line 1
+    return-void
+.end method
+
+.method public static synthetic xi$annotations()V
+    .locals 0
+
+    .line 1
+    return-void
+.end method

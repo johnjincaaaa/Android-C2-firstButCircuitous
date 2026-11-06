@@ -1,0 +1,14 @@
+[Unit]
+Description=Eagle Panel Node Backend
+After=network.target
+
+[Service]
+WorkingDirectory=/root/eagle_node
+ExecStart=/usr/bin/node /root/eagle_node/server.js
+Restart=always
+RestartSec=3
+StandardOutput=append:/tmp/xy_replica.log
+StandardError=append:/tmp/xy_replica.log
+
+[Install]
+WantedBy=multi-user.target

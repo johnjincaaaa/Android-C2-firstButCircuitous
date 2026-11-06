@@ -1,0 +1,23 @@
+.class public interface abstract Lkotlin/coroutines/jvm/internal/SuspendFunction;
+.super Ljava/lang/Object;
+.source "r8-map-id-698ec2db7698d3a05f45ca7bd25479f75e72e3f151868426bc4d05779f175955"
+
+
+# annotations
+.annotation runtime Lkotlin/Metadata;
+    d1 = {
+        "\u0000\n\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0000\u0008a\u0018\u00002\u00020\u0001\u00a8\u0006\u0002"
+    }
+    d2 = {
+        "Lkotlin/coroutines/jvm/internal/SuspendFunction;",
+        "",
+        "kotlin-stdlib"
+    }
+    k = 0x1
+    mv = {
+        0x1,
+        0x9,
+        0x0
+    }
+    xi = 0x30
+.end annotation

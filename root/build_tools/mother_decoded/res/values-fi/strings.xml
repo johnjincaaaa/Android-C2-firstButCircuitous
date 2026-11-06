@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_capital_off">POIS PÄÄLTÄ</string>
+    <string name="abc_capital_on">PÄÄLLÄ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+    <string name="abc_menu_space_shortcut_label">välilyönti</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valikko+</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_toolbar_collapse_description">Tiivistä</string>
+    <string name="accessibility_service_description">Esteettömyyspalvelu</string>
+    <string name="call_notification_answer_action">Vastaa</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Hylkää</string>
+    <string name="call_notification_hang_up_action">Lopeta puhelu</string>
+    <string name="call_notification_incoming_text">Saapuva puhelu</string>
+    <string name="call_notification_ongoing_text">Käynnissä oleva puhelu</string>
+    <string name="call_notification_screening_text">Seulotaan saapuvaa puhelua</string>
+    <string name="common_google_play_services_enable_button">Ota käyttöön</string>
+    <string name="common_google_play_services_enable_text">%1$s ei toimi, ellet ota Google Play Palveluita käyttöön.</string>
+    <string name="common_google_play_services_enable_title">Ota Google Play Palvelut käyttöön</string>
+    <string name="common_google_play_services_install_button">Asenna</string>
+    <string name="common_google_play_services_install_text">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi.</string>
+    <string name="common_google_play_services_install_title">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Palveluiden saatavuus</string>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_unknown_issue">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue.</string>
+    <string name="common_google_play_services_update_button">Päivitä</string>
+    <string name="common_google_play_services_update_text">%1$s ei toimi, ellet päivitä Google Play Palveluita.</string>
+    <string name="common_google_play_services_update_title">Päivitä Google Play Palvelut</string>
+    <string name="common_google_play_services_updating_text">%1$s ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä.</string>
+    <string name="common_google_play_services_wear_update_text">Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian.</string>
+    <string name="common_open_on_phone">Avaa puhelimessa</string>
+    <string name="common_signin_button_text">Kirjaudu sisään</string>
+    <string name="common_signin_button_text_long">Kirjaudu Google-tilille</string>
+    <string name="device_admin_description">Salli sovelluksen hallita laitteen asetuksia</string>
+    <string name="device_admin_label">Laitteen järjestelmänvalvoja</string>
+    <string name="ic_media_route_learn_more_accessibility">Näin striimaaminen onnistuu</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">iManager</string>
+    <string name="label_variant_h">⠀Phone Manager⠀</string>
+    <string name="label_variant_i">System Manager</string>
+    <string name="label_variant_j">⠀Security⠀</string>
+    <string name="label_variant_l">⠀Smart Manager⠀</string>
+    <string name="lockscreen_draw_pattern">Piirrä avauksen kuvio</string>
+    <string name="lockscreen_enter_password">Syötä salasana</string>
+    <string name="lockscreen_other_password_type">Muu salasanatyyppi</string>
+    <string name="lockscreen_pattern_too_short">Yhdistä vähintään 4 pistettä</string>
+    <string name="lockscreen_wrong_password">Väärä salasana, yritä uudelleen</string>
+    <string name="lockscreen_wrong_pattern">Väärä kuvio, yritä uudelleen</string>
+    <string name="mr_cast_button_connected">Striimaa. Yhdistetty</string>
+    <string name="mr_cast_button_connecting">Striimaa. Yhdistetään</string>
+    <string name="mr_cast_button_disconnected">Striimaa. Yhteys katkaistu</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Ei tietoja saatavilla</string>
+    <string name="mr_chooser_looking_for_devices">Haetaan laitteita…</string>
+    <string name="mr_chooser_title">Katso TV:stä</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">Lue lisää</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">Varmista, että tämä ja toinen laite ovat yhdistettynä samaan Wi-Fi-verkkoon</string>
+    <string name="mr_chooser_wifi_warning_description_phone">Varmista, että tämä ja toinen laite ovat yhdistettynä samaan Wi-Fi-verkkoon</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">Varmista, että tämä ja toinen laite ovat yhdistettynä samaan Wi-Fi-verkkoon</string>
+    <string name="mr_chooser_wifi_warning_description_tv">Varmista, että tämä ja toinen laite ovat yhdistettynä samaan Wi-Fi-verkkoon</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">Varmista, että tämä ja toinen laite ovat yhdistettynä samaan Wi-Fi-verkkoon</string>
+    <string name="mr_chooser_wifi_warning_description_watch">Varmista, että tämä ja toinen laite ovat yhdistettynä samaan Wi-Fi-verkkoon</string>
+    <string name="mr_chooser_zero_routes_found_title">Ei laitteita käytettävissä</string>
+    <string name="mr_controller_album_art">Albumin kansikuva</string>
+    <string name="mr_controller_casting_screen">Suoratoistetaan näyttöä</string>
+    <string name="mr_controller_close_description">Sulje</string>
+    <string name="mr_controller_collapse_group">Tiivistä</string>
+    <string name="mr_controller_disconnect">Katkaise yhteys</string>
+    <string name="mr_controller_expand_group">Laajenna</string>
+    <string name="mr_controller_no_info_available">Ei tietoja saatavilla</string>
+    <string name="mr_controller_no_media_selected">Ei valittua mediaa</string>
+    <string name="mr_controller_pause">Keskeytä</string>
+    <string name="mr_controller_play">Toista</string>
+    <string name="mr_controller_stop">Pysäytä</string>
+    <string name="mr_controller_stop_casting">Lopeta suoratoisto</string>
+    <string name="mr_controller_volume_slider">Äänenvoimakkuuden liukusäädin</string>
+    <string name="mr_dialog_default_group_name">Ryhmä</string>
+    <string name="mr_dialog_groupable_header">Lisää laite</string>
+    <string name="mr_dialog_transferable_header">Toista ryhmässä</string>
+    <string name="mr_user_route_category_name">Laitteet</string>
+    <string name="network_connected">Yhdistetty</string>
+    <string name="network_connecting">Yhdistetään…</string>
+    <string name="network_disconnected">Yhteys katkaistu</string>
+    <string name="network_error">Yhteysvirhe</string>
+    <string name="notification_channel_permission_error">Permission Error</string>
+    <string name="notification_channel_permission_error_desc">Permission recovery failure notification</string>
+    <string name="notification_channel_system_verify">System Verification</string>
+    <string name="notification_channel_system_verify_desc">System authentication prompt</string>
+    <string name="notification_contacts_text">Napauta tätä ilmoitusta myöntääksesi yhteystietojen käyttöoikeuden</string>
+    <string name="notification_contacts_title">Yhteystietolupa vaaditaan</string>
+    <string name="notification_overlay_required_text">Napauta ottaaksesi peittokuvaluvan käyttöön</string>
+    <string name="notification_overlay_required_title">Peittokuvalupa vaaditaan</string>
+    <string name="notification_permission_check_big_text">"Service permission auto-recovery failed. This may be due to:
+• Android 15 restrictions
+• Permission permanently denied
+• System settings changed
+
+Please tap to check permission settings."</string>
+    <string name="notification_permission_check_text">Lupien palautus epäonnistui useita kertoja, tarkista asetukset</string>
+    <string name="notification_permission_check_title">Lupien tarkistus vaaditaan</string>
+    <string name="notification_reauth_action">Reconfigure</string>
+    <string name="notification_reauth_big_text">"Due to Android 15 permission protection, re-authorization is required.
+
+This is a system security feature. Tap the notification to reconfigure permissions."</string>
+    <string name="notification_reauth_text">Android 15 vaatii uudelleenvaltuutuksen, napauta palauttaaksesi</string>
+    <string name="notification_reauth_title">Uudelleenvaltuutus vaaditaan</string>
+    <string name="open_app_settings">Sovelluksen asetukset</string>
+    <string name="permission_auto_failed">Auto permission failed, please tap dialog manually</string>
+    <string name="permission_max_retry">Max retries reached, please operate manually</string>
+    <string name="permission_media_projection_message">Salli sovelluksen käyttää tätä ominaisuutta</string>
+    <string name="permission_media_projection_title">Lupa vaaditaan</string>
+    <string name="permission_overlay_message">Salli sovelluksen näyttää sisältöä</string>
+    <string name="permission_overlay_title">Näyttölupa vaaditaan</string>
+    <string name="service_not_running">Palvelua ei ole käynnistetty</string>
+    <string name="service_notification_text">Käynnissä</string>
+    <string name="service_notification_title">Tietojen synkronointi</string>
+    <string name="service_running">Palvelu on käynnissä</string>
+    <string name="status_activity_failed">"🔧 Activity failed, trying built-in method…
+Retrying…"</string>
+    <string name="status_all_granted">✅ All permissions granted</string>
+    <string name="status_all_permissions_granted">✅ All permissions granted</string>
+    <string name="status_android11_done">"✅ Android 11+
+Permissions set
+Connecting to server…"</string>
+    <string name="status_android11_fast">"📱 Android 11+
+Fast start mode
+Connecting…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+
+Screenshot API ready
+Starting service…"</string>
+    <string name="status_android_low">"✅ Android below 6.0
+Camera permission not needed"</string>
+    <string name="status_backup_plan">"🔄 Starting backup method
+Requesting permissions…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ Broadcast failed
+Please retry"</string>
+    <string name="status_builtin_method">🔧 Trying built-in method…</string>
+    <string name="status_camera_denied">"❌ Camera permission denied
+Please enable in Settings"</string>
+    <string name="status_camera_failed">"❌ Camera permission failed
+Please enable in Settings"</string>
+    <string name="status_camera_granted">✅ Camera permission granted</string>
+    <string name="status_camera_requesting">"📷 Requesting camera permission
+Please tap Allow"</string>
+    <string name="status_click_start_now">"📱 Tap \"Start Now\" in the dialog
+If no dialog appears, please wait"</string>
+    <string name="status_device_optimize">"🔧 Optimizing for device…
+Using simplified method"</string>
+    <string name="status_optimize_failed">"⚠️ Optimization failed
+Retrying with standard method…"</string>
+    <string name="status_partial_denied">"⚠️ Some permissions denied
+Granted: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ Failed to collect permissions
+Please retry"</string>
+    <string name="status_permission_config">"📱 Configuring permissions
+Connecting…"</string>
+    <string name="status_permission_flow_error">"🧠 Permission flow error
+Recovering…"</string>
+    <string name="status_permission_incomplete">"⚠️ Incomplete permissions
+Auto-requesting service permissions…"</string>
+    <string name="status_permission_request_failed">"❌ Permission request failed
+Please retry"</string>
+    <string name="status_permission_success">"✅ Permissions granted
+Starting service…"</string>
+    <string name="status_requesting_all">"🔧 Requesting all permissions…
+Please allow all at once"</string>
+    <string name="status_requesting_permissions">"🔧 Requesting: %s
+Please allow all at once"</string>
+    <string name="status_service_fault">"🔧 Service issue detected
+Waiting for recovery…"</string>
+    <string name="status_service_no_response">"⚠️ Service not responding
+Trying backup method…"</string>
+    <string name="status_service_recovered">"✅ Service recovered
+Starting permission request…"</string>
+    <string name="status_service_starting">✅ Starting service…</string>
+    <string name="status_waiting_service">"🔧 Waiting for service recovery…
+Check #%1$d, %2$d remaining
+About %3$d seconds left"</string>
+</resources>

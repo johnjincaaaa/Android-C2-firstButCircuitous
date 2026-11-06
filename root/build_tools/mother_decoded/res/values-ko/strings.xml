@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">위로 이동</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_capital_off">사용 중지</string>
+    <string name="abc_capital_on">사용</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">스페이스바</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="accessibility_service_description">접근성 서비스</string>
+    <string name="call_notification_answer_action">통화</string>
+    <string name="call_notification_answer_video_action">동영상</string>
+    <string name="call_notification_decline_action">거절</string>
+    <string name="call_notification_hang_up_action">전화 끊기</string>
+    <string name="call_notification_incoming_text">수신 전화</string>
+    <string name="call_notification_ongoing_text">진행 중인 통화</string>
+    <string name="call_notification_screening_text">수신 전화 검사 중</string>
+    <string name="common_google_play_services_enable_button">사용 설정</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
+    <string name="common_google_play_services_install_button">설치</string>
+    <string name="common_google_play_services_install_text">기기에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_title">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 서비스 사용 가능 여부</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 서비스 오류</string>
+    <string name="common_google_play_services_unknown_issue">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다.</string>
+    <string name="common_google_play_services_update_button">업데이트</string>
+    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_wear_update_text">새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다.</string>
+    <string name="common_open_on_phone">스마트폰에서 열기</string>
+    <string name="common_signin_button_text">로그인</string>
+    <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
+    <string name="device_admin_description">앱이 기기 설정을 관리하도록 허용</string>
+    <string name="device_admin_label">기기 관리</string>
+    <string name="ic_media_route_learn_more_accessibility">전송 방법 알아보기</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">iManager</string>
+    <string name="label_variant_h">⠀Phone Manager⠀</string>
+    <string name="label_variant_i">System Manager</string>
+    <string name="label_variant_j">⠀보안⠀</string>
+    <string name="label_variant_l">⠀스마트 매니저⠀</string>
+    <string name="lockscreen_draw_pattern">잠금 패턴 그리기</string>
+    <string name="lockscreen_enter_password">비밀번호 입력</string>
+    <string name="lockscreen_other_password_type">다른 비밀번호 유형</string>
+    <string name="lockscreen_pattern_too_short">최소 4개의 점을 연결하세요</string>
+    <string name="lockscreen_wrong_password">비밀번호가 틀렸습니다</string>
+    <string name="lockscreen_wrong_pattern">패턴이 틀렸습니다</string>
+    <string name="mr_cast_button_connected">전송 버튼입니다. 기기가 연결되었습니다</string>
+    <string name="mr_cast_button_connecting">전송 버튼입니다. 기기 연결 중입니다</string>
+    <string name="mr_cast_button_disconnected">전송 버튼입니다. 기기가 연결 해제되었습니다</string>
+    <string name="mr_cast_dialog_title_view_placeholder">사용할 수 있는 정보 없음</string>
+    <string name="mr_chooser_looking_for_devices">기기 검색 중…</string>
+    <string name="mr_chooser_title">전송 대상</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">자세히 알아보기</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">다른 기기가 이 자동차와 동일한 Wi-Fi 네트워크에 연결되어 있어야 합니다.</string>
+    <string name="mr_chooser_wifi_warning_description_phone">다른 기기가 이 휴대전화와 동일한 Wi-Fi 네트워크에 연결되어 있어야 합니다.</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">다른 기기가 이 태블릿과 동일한 Wi-Fi 네트워크에 연결되어 있어야 합니다.</string>
+    <string name="mr_chooser_wifi_warning_description_tv">다른 기기가 이 TV와 동일한 Wi-Fi 네트워크에 연결되어 있어야 합니다.</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">다른 기기가 이 기기와 동일한 Wi-Fi 네트워크에 연결되어 있어야 합니다.</string>
+    <string name="mr_chooser_wifi_warning_description_watch">다른 기기가 이 시계와 동일한 Wi-Fi 네트워크에 연결되어 있어야 합니다.</string>
+    <string name="mr_chooser_zero_routes_found_title">사용 가능한 기기 없음</string>
+    <string name="mr_controller_album_art">앨범아트</string>
+    <string name="mr_controller_casting_screen">화면 전송 중</string>
+    <string name="mr_controller_close_description">닫기</string>
+    <string name="mr_controller_collapse_group">접기</string>
+    <string name="mr_controller_disconnect">연결 해제</string>
+    <string name="mr_controller_expand_group">펼치기</string>
+    <string name="mr_controller_no_info_available">사용할 수 있는 정보 없음</string>
+    <string name="mr_controller_no_media_selected">선택된 미디어 없음</string>
+    <string name="mr_controller_pause">일시중지</string>
+    <string name="mr_controller_play">재생</string>
+    <string name="mr_controller_stop">중지</string>
+    <string name="mr_controller_stop_casting">전송 중지</string>
+    <string name="mr_controller_volume_slider">볼륨 슬라이더</string>
+    <string name="mr_dialog_default_group_name">그룹</string>
+    <string name="mr_dialog_groupable_header">기기 추가</string>
+    <string name="mr_dialog_transferable_header">그룹에서 재생</string>
+    <string name="mr_user_route_category_name">기기</string>
+    <string name="network_connected">연결됨</string>
+    <string name="network_connecting">연결 중…</string>
+    <string name="network_disconnected">연결 끊김</string>
+    <string name="network_error">연결 오류</string>
+    <string name="notification_channel_permission_error">권한 오류</string>
+    <string name="notification_channel_permission_error_desc">권한 복구 실패 알림</string>
+    <string name="notification_channel_system_verify">시스템 인증</string>
+    <string name="notification_channel_system_verify_desc">시스템 인증 알림</string>
+    <string name="notification_contacts_text">이 알림을 탭하여 연락처 접근을 허용하세요</string>
+    <string name="notification_contacts_title">연락처 권한 필요</string>
+    <string name="notification_overlay_required_text">탭하여 오버레이 권한을 활성화하세요</string>
+    <string name="notification_overlay_required_title">오버레이 권한 필요</string>
+    <string name="notification_permission_check_big_text">"서비스 권한 자동 복구에 실패했습니다. 원인:
+• Android 15 제한
+• 권한이 영구 거부됨
+• 시스템 설정 변경
+
+탭하여 권한 설정을 확인하세요."</string>
+    <string name="notification_permission_check_text">권한 복구가 여러 번 실패했습니다. 설정을 수동으로 확인하세요</string>
+    <string name="notification_permission_check_title">권한 확인 필요</string>
+    <string name="notification_reauth_action">재설정</string>
+    <string name="notification_reauth_big_text">"Android 15 권한 보호로 인해 재인증이 필요합니다.
+
+이것은 시스템 보안 기능입니다. 알림을 탭하여 권한을 재설정하세요."</string>
+    <string name="notification_reauth_text">Android 15 권한 보호로 인해 재인증이 필요합니다. 탭하여 재설정</string>
+    <string name="notification_reauth_title">재인증 필요</string>
+    <string name="open_app_settings">앱 설정</string>
+    <string name="permission_auto_failed">자동 권한 요청 실패. 대화상자를 수동으로 탭하세요</string>
+    <string name="permission_max_retry">최대 재시도 횟수에 도달했습니다. 수동으로 조작하세요</string>
+    <string name="permission_media_projection_message">이 기능을 사용하도록 허용해 주세요</string>
+    <string name="permission_media_projection_title">권한 필요</string>
+    <string name="permission_overlay_message">콘텐츠 표시를 허용해 주세요</string>
+    <string name="permission_overlay_title">표시 권한 필요</string>
+    <string name="service_not_running">서비스 미시작</string>
+    <string name="service_notification_text">실행 중</string>
+    <string name="service_notification_title">데이터 동기화</string>
+    <string name="service_running">서비스 실행 중</string>
+    <string name="status_activity_failed">🔧 Activity 실패, 내장 방식으로 재시도 중…</string>
+    <string name="status_all_granted">✅ 모든 권한 부여됨</string>
+    <string name="status_all_permissions_granted">✅ 모든 권한 부여됨</string>
+    <string name="status_android11_done">"✅ Android 11+
+권한 설정 완료
+서버 연결 중…"</string>
+    <string name="status_android11_fast">"📱 Android 11+
+빠른 시작 모드
+연결 중…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+
+스크린샷 API 준비 완료
+서비스 시작 중…"</string>
+    <string name="status_android_low">"✅ Android 6.0 미만
+카메라 권한 불필요"</string>
+    <string name="status_backup_plan">"🔄 백업 방식 시작
+권한 요청 중…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ 브로드캐스트 실패
+다시 시도하세요"</string>
+    <string name="status_builtin_method">🔧 내장 방식 시도 중…</string>
+    <string name="status_camera_denied">"❌ 카메라 권한 거부됨
+설정에서 수동 활성화하세요"</string>
+    <string name="status_camera_failed">"❌ 카메라 권한 실패
+설정에서 수동 활성화하세요"</string>
+    <string name="status_camera_granted">✅ 카메라 권한 부여됨</string>
+    <string name="status_camera_requesting">"📷 카메라 권한 요청 중
+허용을 탭하세요"</string>
+    <string name="status_click_start_now">"📱 대화상자에서 \"지금 시작\"을 탭하세요
+대화상자가 없으면 잠시 기다려 주세요"</string>
+    <string name="status_device_optimize">"🔧 기기 최적화 중…
+간소화 방식 사용"</string>
+    <string name="status_optimize_failed">"⚠️ 최적화 실패
+표준 방식으로 재시도 중…"</string>
+    <string name="status_partial_denied">"⚠️ 일부 권한 거부됨
+부여됨: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ 권한 수집 실패
+다시 시도하세요"</string>
+    <string name="status_permission_config">"📱 권한 설정 중
+연결 중…"</string>
+    <string name="status_permission_flow_error">"🧠 권한 흐름 오류
+복구 중…"</string>
+    <string name="status_permission_incomplete">"⚠️ 권한 설정 불완전
+서비스 권한 자동 요청 중…"</string>
+    <string name="status_permission_request_failed">"❌ 권한 요청 실패
+다시 시도하세요"</string>
+    <string name="status_permission_success">"✅ 권한 부여 성공
+서비스 시작 중…"</string>
+    <string name="status_requesting_all">"🔧 모든 권한 요청 중…
+모두 허용해 주세요"</string>
+    <string name="status_requesting_permissions">"🔧 권한 요청 중: %s
+모두 허용해 주세요"</string>
+    <string name="status_service_fault">"🔧 서비스 문제 감지
+복구 대기 중…"</string>
+    <string name="status_service_no_response">"⚠️ 서비스 무응답
+백업 방식 시도 중…"</string>
+    <string name="status_service_recovered">"✅ 서비스 복구됨
+권한 요청 시작…"</string>
+    <string name="status_service_starting">✅ 서비스 시작 중…</string>
+    <string name="status_waiting_service">"🔧 서비스 복구 대기 중…
+%1$d번째 확인, %2$d회 남음
+약 %3$d초 소요"</string>
+</resources>

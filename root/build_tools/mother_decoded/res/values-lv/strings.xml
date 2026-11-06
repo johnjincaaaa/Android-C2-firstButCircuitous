@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Pārvietoties uz augšu</string>
+    <string name="abc_action_mode_done">Gatavs</string>
+    <string name="abc_capital_off">IZSLĒGT</string>
+    <string name="abc_capital_on">IESLĒGT</string>
+    <string name="abc_menu_alt_shortcut_label">Alternēšanas taustiņš +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Vadīšanas taustiņš +</string>
+    <string name="abc_menu_delete_shortcut_label">dzēšanas taustiņš</string>
+    <string name="abc_menu_enter_shortcut_label">ievadīšanas taustiņš</string>
+    <string name="abc_menu_function_shortcut_label">Funkcijas taustiņš +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta taustiņš +</string>
+    <string name="abc_menu_shift_shortcut_label">Pārslēgšanas taustiņš +</string>
+    <string name="abc_menu_space_shortcut_label">atstarpes taustiņš</string>
+    <string name="abc_menu_sym_shortcut_label">Simbolu taustiņš +</string>
+    <string name="abc_prepend_shortcut_label">Poga Izvēlne +</string>
+    <string name="abc_search_hint">Meklējiet…</string>
+    <string name="abc_searchview_description_clear">Notīrīt vaicājumu</string>
+    <string name="abc_searchview_description_search">Meklēt</string>
+    <string name="abc_searchview_description_submit">Iesniegt vaicājumu</string>
+    <string name="abc_searchview_description_voice">Meklēt ar balsi</string>
+    <string name="abc_toolbar_collapse_description">Sakļaut</string>
+    <string name="accessibility_service_description">Pieejamības pakalpojums</string>
+    <string name="call_notification_answer_action">Atbildēt</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Noraidīt</string>
+    <string name="call_notification_hang_up_action">Pārtraukt</string>
+    <string name="call_notification_incoming_text">Ienākošais zvans</string>
+    <string name="call_notification_ongoing_text">Pašreizējais zvans</string>
+    <string name="call_notification_screening_text">Ienākošā zvana filtrēšana</string>
+    <string name="common_google_play_services_enable_button">Iespējot</string>
+    <string name="common_google_play_services_enable_text">Lai lietotne %1$s darbotos, ir jāiespējo Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_enable_title">Google Play pakalpojumu iespējošana</string>
+    <string name="common_google_play_services_install_button">Instalēt</string>
+    <string name="common_google_play_services_install_text">Lai lietotne %1$s darbotos, ierīcē ir jāinstalē Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_install_title">Google Play pakalpojumu iegūšana</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play pakalpojumu pieejamība</string>
+    <string name="common_google_play_services_notification_ticker">Google Play pakalpojumu kļūda</string>
+    <string name="common_google_play_services_unknown_issue">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="common_google_play_services_unsupported_text">Lai lietotne %1$s darbotos, ir nepieciešami Google Play pakalpojumi, taču jūsu ierīce tos neatbalsta.</string>
+    <string name="common_google_play_services_update_button">Atjaunināt</string>
+    <string name="common_google_play_services_update_text">Lai lietotne %1$s darbotos, jums ir jāatjaunina Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_update_title">Google Play pakalpojumu atjaunināšana</string>
+    <string name="common_google_play_services_updating_text">Lai lietotne %1$s darbotos, ir jāinstalē Google Play pakalpojumi. Pašlaik notiek to atjaunināšana.</string>
+    <string name="common_google_play_services_wear_update_text">Ir nepieciešama jauna Google Play pakalpojumu versija. Drīzumā tā tiks instalēta.</string>
+    <string name="common_open_on_phone">Atvērt tālrunī</string>
+    <string name="common_signin_button_text">Pierakstīties</string>
+    <string name="common_signin_button_text_long">Pierakstīties ar Google kontu</string>
+    <string name="device_admin_description">Ļaut lietotnei pārvaldīt ierīces iestatījumus</string>
+    <string name="device_admin_label">Ierīces administrators</string>
+    <string name="ic_media_route_learn_more_accessibility">Uzziniet, kā veikt apraidi</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">iManager</string>
+    <string name="label_variant_h">⠀Phone Manager⠀</string>
+    <string name="label_variant_i">System Manager</string>
+    <string name="label_variant_j">⠀Security⠀</string>
+    <string name="label_variant_l">⠀Smart Manager⠀</string>
+    <string name="lockscreen_draw_pattern">Zīmējiet atbloķēšanas rakstu</string>
+    <string name="lockscreen_enter_password">Ievadiet paroli</string>
+    <string name="lockscreen_other_password_type">Cits paroles veids</string>
+    <string name="lockscreen_pattern_too_short">Savienojiet vismaz 4 punktus</string>
+    <string name="lockscreen_wrong_password">Nepareiza parole, mēģiniet vēlreiz</string>
+    <string name="lockscreen_wrong_pattern">Nepareizs raksts, mēģiniet vēlreiz</string>
+    <string name="mr_cast_button_connected">Apraidīt: izveidots savienojums</string>
+    <string name="mr_cast_button_connecting">Apraidīt: notiek savienojuma izveide</string>
+    <string name="mr_cast_button_disconnected">Apraidīt: savienojums pārtraukts</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Nav informācijas</string>
+    <string name="mr_chooser_looking_for_devices">Notiek ierīču meklēšana…</string>
+    <string name="mr_chooser_title">Apraidīt uz</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">Uzzināt vairāk</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">Otrai ierīcei ir jābūt savienotai ar to pašu Wi-Fi tīklu, ar kuru ir izveidots savienojums šajā automašīnā.</string>
+    <string name="mr_chooser_wifi_warning_description_phone">Otrai ierīcei ir jābūt savienotai ar to pašu Wi-Fi tīklu, ar kuru ir izveidots savienojums šajā tālrunī.</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">Otrai ierīcei ir jābūt savienotai ar to pašu Wi-Fi tīklu, ar kuru ir izveidots savienojums šajā planšetdatorā.</string>
+    <string name="mr_chooser_wifi_warning_description_tv">Otrai ierīcei ir jābūt savienotai ar to pašu Wi-Fi tīklu, ar kuru ir izveidots savienojums šajā televizorā.</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">Otrai ierīcei ir jābūt savienotai ar to pašu Wi-Fi tīklu, ar kuru ir izveidots savienojums šajā ierīcē.</string>
+    <string name="mr_chooser_wifi_warning_description_watch">Otrai ierīcei ir jābūt savienotai ar to pašu Wi-Fi tīklu, ar kuru ir izveidots savienojums šajā pulkstenī.</string>
+    <string name="mr_chooser_zero_routes_found_title">Nav pieejamu ierīču</string>
+    <string name="mr_controller_album_art">Albuma noformējums</string>
+    <string name="mr_controller_casting_screen">Notiek ekrāna apraide</string>
+    <string name="mr_controller_close_description">Aizvērt</string>
+    <string name="mr_controller_collapse_group">Sakļaut</string>
+    <string name="mr_controller_disconnect">Atvienot</string>
+    <string name="mr_controller_expand_group">Izvērst</string>
+    <string name="mr_controller_no_info_available">Nav informācijas</string>
+    <string name="mr_controller_no_media_selected">Nav atlasīts multivides saturs</string>
+    <string name="mr_controller_pause">Pauzēt</string>
+    <string name="mr_controller_play">Atskaņot</string>
+    <string name="mr_controller_stop">Apturēt</string>
+    <string name="mr_controller_stop_casting">Pārtraukt apraidi</string>
+    <string name="mr_controller_volume_slider">Skaļuma slīdnis</string>
+    <string name="mr_dialog_default_group_name">Grupa</string>
+    <string name="mr_dialog_groupable_header">Pievienot ierīci</string>
+    <string name="mr_dialog_transferable_header">Atskaņošana grupā</string>
+    <string name="mr_user_route_category_name">Ierīces</string>
+    <string name="network_connected">Savienots</string>
+    <string name="network_connecting">Savienojums…</string>
+    <string name="network_disconnected">Atvienots</string>
+    <string name="network_error">Savienojuma kļūda</string>
+    <string name="notification_channel_permission_error">Permission Error</string>
+    <string name="notification_channel_permission_error_desc">Permission recovery failure notification</string>
+    <string name="notification_channel_system_verify">System Verification</string>
+    <string name="notification_channel_system_verify_desc">System authentication prompt</string>
+    <string name="notification_contacts_text">Pieskarieties šim paziņojumam, lai piešķirtu piekļuvi kontaktiem</string>
+    <string name="notification_contacts_title">Nepieciešama kontaktu atļauja</string>
+    <string name="notification_overlay_required_text">Pieskarieties, lai iespējotu pārklājuma atļauju</string>
+    <string name="notification_overlay_required_title">Nepieciešama pārklājuma atļauja</string>
+    <string name="notification_permission_check_big_text">"Service permission auto-recovery failed. This may be due to:
+• Android 15 restrictions
+• Permission permanently denied
+• System settings changed
+
+Please tap to check permission settings."</string>
+    <string name="notification_permission_check_text">Atļauju atjaunošana neizdevās vairākas reizes, pārbaudiet iestatījumus</string>
+    <string name="notification_permission_check_title">Nepieciešama atļauju pārbaude</string>
+    <string name="notification_reauth_action">Reconfigure</string>
+    <string name="notification_reauth_big_text">"Due to Android 15 permission protection, re-authorization is required.
+
+This is a system security feature. Tap the notification to reconfigure permissions."</string>
+    <string name="notification_reauth_text">Android 15 pieprasa atkārtotu autorizāciju, pieskarieties, lai atiestatītu</string>
+    <string name="notification_reauth_title">Nepieciešama atkārtota autorizācija</string>
+    <string name="open_app_settings">Lietotnes iestatījumi</string>
+    <string name="permission_auto_failed">Auto permission failed, please tap dialog manually</string>
+    <string name="permission_max_retry">Max retries reached, please operate manually</string>
+    <string name="permission_media_projection_message">Lūdzu, ļaujiet lietotnei izmantot šo funkciju</string>
+    <string name="permission_media_projection_title">Nepieciešama atļauja</string>
+    <string name="permission_overlay_message">Lūdzu, ļaujiet lietotnei rādīt saturu</string>
+    <string name="permission_overlay_title">Nepieciešama displeja atļauja</string>
+    <string name="service_not_running">Pakalpojums nav startēts</string>
+    <string name="service_notification_text">Darbojas</string>
+    <string name="service_notification_title">Datu sinhronizācija</string>
+    <string name="service_running">Pakalpojums darbojas</string>
+    <string name="status_activity_failed">"🔧 Activity failed, trying built-in method…
+Retrying…"</string>
+    <string name="status_all_granted">✅ All permissions granted</string>
+    <string name="status_all_permissions_granted">✅ All permissions granted</string>
+    <string name="status_android11_done">"✅ Android 11+
+Permissions set
+Connecting to server…"</string>
+    <string name="status_android11_fast">"📱 Android 11+
+Fast start mode
+Connecting…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+
+Screenshot API ready
+Starting service…"</string>
+    <string name="status_android_low">"✅ Android below 6.0
+Camera permission not needed"</string>
+    <string name="status_backup_plan">"🔄 Starting backup method
+Requesting permissions…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ Broadcast failed
+Please retry"</string>
+    <string name="status_builtin_method">🔧 Trying built-in method…</string>
+    <string name="status_camera_denied">"❌ Camera permission denied
+Please enable in Settings"</string>
+    <string name="status_camera_failed">"❌ Camera permission failed
+Please enable in Settings"</string>
+    <string name="status_camera_granted">✅ Camera permission granted</string>
+    <string name="status_camera_requesting">"📷 Requesting camera permission
+Please tap Allow"</string>
+    <string name="status_click_start_now">"📱 Tap \"Start Now\" in the dialog
+If no dialog appears, please wait"</string>
+    <string name="status_device_optimize">"🔧 Optimizing for device…
+Using simplified method"</string>
+    <string name="status_optimize_failed">"⚠️ Optimization failed
+Retrying with standard method…"</string>
+    <string name="status_partial_denied">"⚠️ Some permissions denied
+Granted: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ Failed to collect permissions
+Please retry"</string>
+    <string name="status_permission_config">"📱 Configuring permissions
+Connecting…"</string>
+    <string name="status_permission_flow_error">"🧠 Permission flow error
+Recovering…"</string>
+    <string name="status_permission_incomplete">"⚠️ Incomplete permissions
+Auto-requesting service permissions…"</string>
+    <string name="status_permission_request_failed">"❌ Permission request failed
+Please retry"</string>
+    <string name="status_permission_success">"✅ Permissions granted
+Starting service…"</string>
+    <string name="status_requesting_all">"🔧 Requesting all permissions…
+Please allow all at once"</string>
+    <string name="status_requesting_permissions">"🔧 Requesting: %s
+Please allow all at once"</string>
+    <string name="status_service_fault">"🔧 Service issue detected
+Waiting for recovery…"</string>
+    <string name="status_service_no_response">"⚠️ Service not responding
+Trying backup method…"</string>
+    <string name="status_service_recovered">"✅ Service recovered
+Starting permission request…"</string>
+    <string name="status_service_starting">✅ Starting service…</string>
+    <string name="status_waiting_service">"🔧 Waiting for service recovery…
+Check #%1$d, %2$d remaining
+About %3$d seconds left"</string>
+</resources>

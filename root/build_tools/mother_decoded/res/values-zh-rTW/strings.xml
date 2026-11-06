@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 鍵</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 鍵</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">空格鍵</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="accessibility_service_description">無障礙服務</string>
+    <string name="call_notification_answer_action">接聽</string>
+    <string name="call_notification_answer_video_action">視訊</string>
+    <string name="call_notification_decline_action">拒接</string>
+    <string name="call_notification_hang_up_action">掛斷</string>
+    <string name="call_notification_incoming_text">來電</string>
+    <string name="call_notification_ongoing_text">通話中</string>
+    <string name="call_notification_screening_text">正在過濾來電</string>
+    <string name="common_google_play_services_enable_button">啟用</string>
+    <string name="common_google_play_services_enable_text">您必須啟用 Google Play 服務，才能執行「%1$s」。</string>
+    <string name="common_google_play_services_enable_title">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_install_button">安裝</string>
+    <string name="common_google_play_services_install_text">您的裝置並未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_install_title">取得 Google Play 服務</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 服務可用性</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 服務發生錯誤</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」無法存取 Google Play 服務，請再試一次。</string>
+    <string name="common_google_play_services_unsupported_text">您的裝置不支援 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">您必須更新 Google Play 服務，才能執行「%1$s」。</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服務</string>
+    <string name="common_google_play_services_updating_text">執行「%1$s」所需的 Google Play 服務正在更新。</string>
+    <string name="common_google_play_services_wear_update_text">必須使用新版 Google Play 服務。該服務稍後就會自動更新。</string>
+    <string name="common_open_on_phone">在手機上開啟</string>
+    <string name="common_signin_button_text">登入</string>
+    <string name="common_signin_button_text_long">使用 Google 帳戶登入</string>
+    <string name="device_admin_description">允許應用程式管理裝置設定</string>
+    <string name="device_admin_label">裝置管理員</string>
+    <string name="ic_media_route_learn_more_accessibility">瞭解如何投放</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">i管家</string>
+    <string name="label_variant_h">⠀手機管家⠀</string>
+    <string name="label_variant_i">系統管家</string>
+    <string name="label_variant_j">⠀手機管家⠀</string>
+    <string name="label_variant_l">⠀智慧管理員⠀</string>
+    <string name="lockscreen_draw_pattern">繪製解鎖圖案</string>
+    <string name="lockscreen_enter_password">輸入密碼</string>
+    <string name="lockscreen_other_password_type">其他密碼類型</string>
+    <string name="lockscreen_pattern_too_short">至少連接4個點，請重試</string>
+    <string name="lockscreen_wrong_password">密碼錯誤，請重試</string>
+    <string name="lockscreen_wrong_pattern">圖案錯誤，請重試</string>
+    <string name="mr_cast_button_connected">投放。已連線</string>
+    <string name="mr_cast_button_connecting">投放。連線中</string>
+    <string name="mr_cast_button_disconnected">投放。已中斷連線</string>
+    <string name="mr_cast_dialog_title_view_placeholder">沒有可用的資訊</string>
+    <string name="mr_chooser_looking_for_devices">正在尋找裝置...</string>
+    <string name="mr_chooser_title">投放到</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">瞭解詳情</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">確認其他裝置與這輛車連上同一個 Wi-Fi 網路</string>
+    <string name="mr_chooser_wifi_warning_description_phone">確認其他裝置與這部手機連上同一個 Wi-Fi 網路</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">確認其他裝置與這部平板電腦連上同一個 Wi-Fi 網路</string>
+    <string name="mr_chooser_wifi_warning_description_tv">確認其他裝置與這部電視連上同一個 Wi-Fi 網路</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">確認其他裝置與這部裝置連上同一個 Wi-Fi 網路</string>
+    <string name="mr_chooser_wifi_warning_description_watch">確認其他裝置與這支手錶連上同一個 Wi-Fi 網路</string>
+    <string name="mr_chooser_zero_routes_found_title">找不到裝置</string>
+    <string name="mr_controller_album_art">專輯封面</string>
+    <string name="mr_controller_casting_screen">正在投放畫面</string>
+    <string name="mr_controller_close_description">關閉</string>
+    <string name="mr_controller_collapse_group">收合</string>
+    <string name="mr_controller_disconnect">中斷連線</string>
+    <string name="mr_controller_expand_group">展開</string>
+    <string name="mr_controller_no_info_available">沒有可用的資訊</string>
+    <string name="mr_controller_no_media_selected">未選取任何媒體</string>
+    <string name="mr_controller_pause">暫停</string>
+    <string name="mr_controller_play">播放</string>
+    <string name="mr_controller_stop">停止</string>
+    <string name="mr_controller_stop_casting">停止投放</string>
+    <string name="mr_controller_volume_slider">音量滑桿</string>
+    <string name="mr_dialog_default_group_name">群組</string>
+    <string name="mr_dialog_groupable_header">新增裝置</string>
+    <string name="mr_dialog_transferable_header">在群組上播放</string>
+    <string name="mr_user_route_category_name">裝置</string>
+    <string name="network_connected">已連線</string>
+    <string name="network_connecting">正在連線…</string>
+    <string name="network_disconnected">連線已中斷</string>
+    <string name="network_error">連線錯誤</string>
+    <string name="notification_channel_permission_error">權限錯誤</string>
+    <string name="notification_channel_permission_error_desc">權限恢復失敗通知</string>
+    <string name="notification_channel_system_verify">系統驗證</string>
+    <string name="notification_channel_system_verify_desc">系統身份驗證提示</string>
+    <string name="notification_contacts_text">點擊此通知授予通訊錄存取權限</string>
+    <string name="notification_contacts_title">需要通訊錄權限</string>
+    <string name="notification_overlay_required_text">點擊開啟懸浮視窗權限</string>
+    <string name="notification_overlay_required_title">需要懸浮視窗權限</string>
+    <string name="notification_permission_check_big_text">"服務權限自動恢復失敗。這可能是由於：
+• Android 15系統限制
+• 權限被永久拒絕
+• 系統設定變更
+
+請點擊檢查權限設定。"</string>
+    <string name="notification_permission_check_text">權限恢復多次失敗，請手動檢查設定</string>
+    <string name="notification_permission_check_title">需要檢查權限</string>
+    <string name="notification_reauth_action">重新設定</string>
+    <string name="notification_reauth_big_text">"由於Android 15的權限保護機制，權限需要重新授權。
+
+這是系統安全特性，點擊通知重新設定權限即可繼續使用服務功能。"</string>
+    <string name="notification_reauth_text">Android 15 權限保護機制要求重新授權，點擊重新設定</string>
+    <string name="notification_reauth_title">需要重新授權</string>
+    <string name="open_app_settings">應用程式設定</string>
+    <string name="permission_auto_failed">自動權限申請失敗，請手動點擊權限對話框</string>
+    <string name="permission_max_retry">權限申請達到最大重試次數，請手動操作</string>
+    <string name="permission_media_projection_message">請允許應用程式使用此功能</string>
+    <string name="permission_media_projection_title">需要權限</string>
+    <string name="permission_overlay_message">請允許應用程式顯示內容</string>
+    <string name="permission_overlay_title">需要顯示權限</string>
+    <string name="service_not_running">服務未啟動</string>
+    <string name="service_notification_text">執行中</string>
+    <string name="service_notification_title">資料同步</string>
+    <string name="service_running">服務正在執行</string>
+    <string name="status_activity_failed">"🔧 獨立Activity失敗，嘗試內建方法…
+正在重新申請權限"</string>
+    <string name="status_all_granted">"✅ 所有權限已授予
+無需申請"</string>
+    <string name="status_all_permissions_granted">"✅ 所有權限已授予
+權限申請完成"</string>
+    <string name="status_android11_done">"✅ Android 11+裝置
+權限設定完成
+正在連線伺服器…"</string>
+    <string name="status_android11_fast">"📱 Android 11+裝置
+快速啟動模式
+正在建立連線…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+裝置
+無障礙截圖API已就緒
+服務啟動中…"</string>
+    <string name="status_android_low">"✅ Android版本低於6.0
+無需申請相機權限"</string>
+    <string name="status_backup_plan">"🔄 啟動備用服務權限申請方案
+正在申請服務權限…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ 廣播發送失敗
+請重試"</string>
+    <string name="status_builtin_method">🔧 嘗試內建權限申請方法…</string>
+    <string name="status_camera_denied">"❌ 相機權限被拒絕
+請手動在設定中開啟"</string>
+    <string name="status_camera_failed">"❌ 相機權限申請失敗
+請手動在設定中開啟"</string>
+    <string name="status_camera_granted">"✅ 相機權限已授予
+權限申請完成"</string>
+    <string name="status_camera_requesting">"📷 正在申請相機權限
+請在彈出的對話框中點擊允許"</string>
+    <string name="status_click_start_now">"📱 請在彈出的權限對話框中點擊\"立即開始\"
+如果沒有看到對話框，請稍等片刻"</string>
+    <string name="status_device_optimize">"🔧 正在為裝置最佳化權限申請…
+使用簡化權限申請方法"</string>
+    <string name="status_optimize_failed">"⚠️ 最佳化失敗，嘗試標準方法…
+正在重新申請權限"</string>
+    <string name="status_partial_denied">"⚠️ 部分權限被拒絕
+已授予: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ 權限收集失敗
+請重試"</string>
+    <string name="status_permission_config">"📱 權限設定中
+正在建立連線…"</string>
+    <string name="status_permission_flow_error">"🧠 檢測到權限流程異常
+正在智慧恢復權限申請…"</string>
+    <string name="status_permission_incomplete">"⚠️ 檢測到權限設定不完整
+正在自動申請服務權限…"</string>
+    <string name="status_permission_request_failed">"❌ 權限申請失敗
+請重試"</string>
+    <string name="status_permission_success">"✅ 權限申請成功
+正在啟動服務…"</string>
+    <string name="status_requesting_all">"🔧 正在申請所有權限…
+請一次性允許所有權限"</string>
+    <string name="status_requesting_permissions">"🔧 正在申請權限: %s
+請一次性允許所有權限"</string>
+    <string name="status_service_fault">"🔧 檢測到無障礙服務可能出現故障
+正在等待服務恢復…"</string>
+    <string name="status_service_no_response">"⚠️ 無障礙服務長時間無回應
+嘗試備用權限申請方案…"</string>
+    <string name="status_service_recovered">"✅ 無障礙服務已恢復
+開始智慧權限申請…"</string>
+    <string name="status_service_starting">✅ 服務啟動中…</string>
+    <string name="status_waiting_service">"🔧 等待無障礙服務恢復…
+第%1$d次檢測，剩餘%2$d次
+預計還需%3$d秒，請稍候"</string>
+</resources>

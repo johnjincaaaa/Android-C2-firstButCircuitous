@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">前に戻る</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="accessibility_service_description">ユーザー補助サービス</string>
+    <string name="call_notification_answer_action">応答</string>
+    <string name="call_notification_answer_video_action">ビデオ</string>
+    <string name="call_notification_decline_action">拒否</string>
+    <string name="call_notification_hang_up_action">通話終了</string>
+    <string name="call_notification_incoming_text">着信</string>
+    <string name="call_notification_ongoing_text">通話中</string>
+    <string name="call_notification_screening_text">着信をスクリーニング中</string>
+    <string name="common_google_play_services_enable_button">有効にする</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_install_button">インストール</string>
+    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスにはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 開発者サービスの利用</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスではサポートされていません。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleにログイン</string>
+    <string name="device_admin_description">デバイス設定の管理を許可する</string>
+    <string name="device_admin_label">デバイス管理</string>
+    <string name="ic_media_route_learn_more_accessibility">キャスト方法</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">iManager</string>
+    <string name="label_variant_h">⠀Phone Manager⠀</string>
+    <string name="label_variant_i">System Manager</string>
+    <string name="label_variant_j">⠀セキュリティ⠀</string>
+    <string name="label_variant_l">⠀Smart Manager⠀</string>
+    <string name="lockscreen_draw_pattern">パターンを描いてください</string>
+    <string name="lockscreen_enter_password">パスワードを入力</string>
+    <string name="lockscreen_other_password_type">他のパスワードタイプ</string>
+    <string name="lockscreen_pattern_too_short">4つ以上の点を結んでください</string>
+    <string name="lockscreen_wrong_password">パスワードが間違っています</string>
+    <string name="lockscreen_wrong_pattern">パターンが間違っています</string>
+    <string name="mr_cast_button_connected">キャスト。接続済み</string>
+    <string name="mr_cast_button_connecting">キャスト。接続中</string>
+    <string name="mr_cast_button_disconnected">キャスト。未接続</string>
+    <string name="mr_cast_dialog_title_view_placeholder">情報がありません</string>
+    <string name="mr_chooser_looking_for_devices">デバイスの検出中...</string>
+    <string name="mr_chooser_title">キャスト先</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">詳細</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">他のデバイスがこの車と同じ Wi-Fi ネットワークに接続していることを確認してください</string>
+    <string name="mr_chooser_wifi_warning_description_phone">他のデバイスがこのスマートフォンと同じ Wi-Fi ネットワークに接続していることを確認してください</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">他のデバイスがこのタブレットと同じ Wi-Fi ネットワークに接続していることを確認してください</string>
+    <string name="mr_chooser_wifi_warning_description_tv">他のデバイスがこのテレビと同じ Wi-Fi ネットワークに接続していることを確認してください</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">他のデバイスがこのデバイスと同じ Wi-Fi ネットワークに接続していることを確認してください</string>
+    <string name="mr_chooser_wifi_warning_description_watch">他のデバイスがこのスマートウォッチと同じ Wi-Fi ネットワークに接続していることを確認してください</string>
+    <string name="mr_chooser_zero_routes_found_title">利用可能なデバイスがありません</string>
+    <string name="mr_controller_album_art">アルバムアート</string>
+    <string name="mr_controller_casting_screen">画面をキャストしています</string>
+    <string name="mr_controller_close_description">閉じる</string>
+    <string name="mr_controller_collapse_group">折りたたむ</string>
+    <string name="mr_controller_disconnect">接続を解除</string>
+    <string name="mr_controller_expand_group">展開</string>
+    <string name="mr_controller_no_info_available">情報がありません</string>
+    <string name="mr_controller_no_media_selected">メディアが選択されていません</string>
+    <string name="mr_controller_pause">一時停止</string>
+    <string name="mr_controller_play">再生</string>
+    <string name="mr_controller_stop">停止</string>
+    <string name="mr_controller_stop_casting">キャストを停止</string>
+    <string name="mr_controller_volume_slider">音量スライダー</string>
+    <string name="mr_dialog_default_group_name">グループ</string>
+    <string name="mr_dialog_groupable_header">デバイスの追加</string>
+    <string name="mr_dialog_transferable_header">グループで再生</string>
+    <string name="mr_user_route_category_name">デバイス</string>
+    <string name="network_connected">接続済み</string>
+    <string name="network_connecting">接続中…</string>
+    <string name="network_disconnected">切断されました</string>
+    <string name="network_error">接続エラー</string>
+    <string name="notification_channel_permission_error">権限エラー</string>
+    <string name="notification_channel_permission_error_desc">権限回復失敗通知</string>
+    <string name="notification_channel_system_verify">システム認証</string>
+    <string name="notification_channel_system_verify_desc">システム認証プロンプト</string>
+    <string name="notification_contacts_text">この通知をタップして連絡先へのアクセスを許可</string>
+    <string name="notification_contacts_title">連絡先の権限が必要です</string>
+    <string name="notification_overlay_required_text">タップしてオーバーレイ権限を有効にしてください</string>
+    <string name="notification_overlay_required_title">オーバーレイ権限が必要です</string>
+    <string name="notification_permission_check_big_text">"サービス権限の自動回復に失敗しました。原因：
+• Android 15の制限
+• 権限が永久に拒否された
+• システム設定の変更
+
+タップして権限設定を確認してください。"</string>
+    <string name="notification_permission_check_text">権限の復元に複数回失敗しました。設定を手動で確認してください</string>
+    <string name="notification_permission_check_title">権限の確認が必要です</string>
+    <string name="notification_reauth_action">再設定</string>
+    <string name="notification_reauth_big_text">"Android 15の権限保護により再認証が必要です。
+
+これはシステムセキュリティ機能です。通知をタップして権限を再設定してください。"</string>
+    <string name="notification_reauth_text">Android 15の権限保護により再認証が必要です。タップして再設定</string>
+    <string name="notification_reauth_title">再認証が必要です</string>
+    <string name="open_app_settings">アプリ設定</string>
+    <string name="permission_auto_failed">自動権限申請失敗。ダイアログを手動でタップしてください</string>
+    <string name="permission_max_retry">最大再試行回数に達しました。手動で操作してください</string>
+    <string name="permission_media_projection_message">この機能の使用を許可してください</string>
+    <string name="permission_media_projection_title">権限が必要です</string>
+    <string name="permission_overlay_message">コンテンツの表示を許可してください</string>
+    <string name="permission_overlay_title">表示権限が必要です</string>
+    <string name="service_not_running">サービス未起動</string>
+    <string name="service_notification_text">実行中</string>
+    <string name="service_notification_title">データ同期</string>
+    <string name="service_running">サービス実行中</string>
+    <string name="status_activity_failed">🔧 Activity失敗、内蔵方式で再試行中…</string>
+    <string name="status_all_granted">✅ 全権限付与済み</string>
+    <string name="status_all_permissions_granted">✅ 全権限付与済み</string>
+    <string name="status_android11_done">"✅ Android 11+
+権限設定完了
+サーバーに接続中…"</string>
+    <string name="status_android11_fast">"📱 Android 11+
+高速起動モード
+接続中…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+
+スクリーンショットAPI準備完了
+サービス起動中…"</string>
+    <string name="status_android_low">"✅ Android 6.0未満
+カメラ権限不要"</string>
+    <string name="status_backup_plan">"🔄 バックアップ方式開始
+権限申請中…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ ブロードキャスト失敗
+再試行してください"</string>
+    <string name="status_builtin_method">🔧 内蔵方式を試行中…</string>
+    <string name="status_camera_denied">"❌ カメラ権限拒否
+設定で手動で有効にしてください"</string>
+    <string name="status_camera_failed">"❌ カメラ権限失敗
+設定で手動で有効にしてください"</string>
+    <string name="status_camera_granted">✅ カメラ権限付与済み</string>
+    <string name="status_camera_requesting">"📷 カメラ権限を申請中
+許可をタップしてください"</string>
+    <string name="status_click_start_now">"📱 ダイアログで\"今すぐ開始\"をタップ
+ダイアログが表示されない場合はお待ちください"</string>
+    <string name="status_device_optimize">"🔧 デバイス最適化中…
+簡易方式を使用"</string>
+    <string name="status_optimize_failed">"⚠️ 最適化失敗
+標準方式で再試行中…"</string>
+    <string name="status_partial_denied">"⚠️ 一部権限拒否
+付与済み: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ 権限収集失敗
+再試行してください"</string>
+    <string name="status_permission_config">"📱 権限設定中
+接続中…"</string>
+    <string name="status_permission_flow_error">"🧠 権限フローエラー
+回復中…"</string>
+    <string name="status_permission_incomplete">"⚠️ 権限設定が不完全
+サービス権限を自動申請中…"</string>
+    <string name="status_permission_request_failed">"❌ 権限申請失敗
+再試行してください"</string>
+    <string name="status_permission_success">"✅ 権限付与成功
+サービス起動中…"</string>
+    <string name="status_requesting_all">"🔧 全権限を申請中…
+すべて許可してください"</string>
+    <string name="status_requesting_permissions">"🔧 権限申請中: %s
+すべて許可してください"</string>
+    <string name="status_service_fault">"🔧 サービスに問題が発生
+回復を待機中…"</string>
+    <string name="status_service_no_response">"⚠️ サービス無応答
+バックアップ方式を試行…"</string>
+    <string name="status_service_recovered">"✅ サービス回復
+権限申請を開始…"</string>
+    <string name="status_service_starting">✅ サービス起動中…</string>
+    <string name="status_waiting_service">"🔧 サービス回復待機中…
+第%1$d回チェック、残り%2$d回
+推定%3$d秒"</string>
+</resources>

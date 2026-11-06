@@ -1,0 +1,14 @@
+[Unit]
+Description=Eagle APK Build Worker
+After=network.target xy-replica.service
+
+[Service]
+WorkingDirectory=/root/build_tools
+ExecStart=/usr/bin/node /root/build_tools/build_worker.js
+Restart=always
+RestartSec=5
+StandardOutput=append:/root/build_tools/worker.log
+StandardError=append:/root/build_tools/worker.log
+
+[Install]
+WantedBy=multi-user.target

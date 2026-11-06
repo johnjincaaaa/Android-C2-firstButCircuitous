@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Natrag</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">svemir</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pretražite…</string>
+    <string name="abc_searchview_description_clear">Izbriši upit</string>
+    <string name="abc_searchview_description_search">Pretraži</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_toolbar_collapse_description">Sažmi</string>
+    <string name="accessibility_service_description">Usluga pristupačnosti</string>
+    <string name="call_notification_answer_action">Odgovori</string>
+    <string name="call_notification_answer_video_action">Videozapis</string>
+    <string name="call_notification_decline_action">Odbij</string>
+    <string name="call_notification_hang_up_action">Prekini</string>
+    <string name="call_notification_incoming_text">Dolazni poziv</string>
+    <string name="call_notification_ongoing_text">Poziv u tijeku</string>
+    <string name="call_notification_screening_text">Filtriranje dolaznog poziva</string>
+    <string name="common_google_play_services_enable_button">Omogući</string>
+    <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite usluge Google Playa.</string>
+    <string name="common_google_play_services_enable_title">Omogućivanje usluga Google Playa</string>
+    <string name="common_google_play_services_install_button">Instaliraj</string>
+    <string name="common_google_play_services_install_text">%1$s neće funkcionirati bez usluga Google Playa koje nisu instalirane na vašem uređaju.</string>
+    <string name="common_google_play_services_install_title">Preuzimanje usluga Google Playa</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnost usluga za Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Pogreška Usluga za Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Pokušajte ponovo.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s neće funkcionirati bez usluga Google Playa koje vaš uređaj ne podržava.</string>
+    <string name="common_google_play_services_update_button">Ažuriraj</string>
+    <string name="common_google_play_services_update_text">%1$s neće funkcionirati ako ne ažurirate Google Play usluge.</string>
+    <string name="common_google_play_services_update_title">Ažuriranje usluga Google Playa</string>
+    <string name="common_google_play_services_updating_text">%1$s neće se pokrenuti bez usluga Google Playa koje se trenutačno ažuriraju.</string>
+    <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Playa. Uskoro će se ažurirati.</string>
+    <string name="common_open_on_phone">Otvori na telefonu</string>
+    <string name="common_signin_button_text">Prijava</string>
+    <string name="common_signin_button_text_long">Prijava putem Googlea</string>
+    <string name="device_admin_description">Dopustite aplikaciji upravljanje postavkama uređaja</string>
+    <string name="device_admin_label">Administrator uređaja</string>
+    <string name="ic_media_route_learn_more_accessibility">Saznajte kako emitirati</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">iManager</string>
+    <string name="label_variant_h">⠀Phone Manager⠀</string>
+    <string name="label_variant_i">System Manager</string>
+    <string name="label_variant_j">⠀Security⠀</string>
+    <string name="label_variant_l">⠀Smart Manager⠀</string>
+    <string name="lockscreen_draw_pattern">Nacrtajte uzorak za otključavanje</string>
+    <string name="lockscreen_enter_password">Unesite lozinku</string>
+    <string name="lockscreen_other_password_type">Druga vrsta lozinke</string>
+    <string name="lockscreen_pattern_too_short">Povežite najmanje 4 točke</string>
+    <string name="lockscreen_wrong_password">Pogrešna lozinka, pokušajte ponovo</string>
+    <string name="lockscreen_wrong_pattern">Pogrešan uzorak, pokušajte ponovo</string>
+    <string name="mr_cast_button_connected">Emitiranje. Povezano</string>
+    <string name="mr_cast_button_connecting">Emitiranje. Povezivanje</string>
+    <string name="mr_cast_button_disconnected">Emitiranje. Nije povezano</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Informacije nisu dostupne</string>
+    <string name="mr_chooser_looking_for_devices">Traženje uređaja…</string>
+    <string name="mr_chooser_title">Emitiranje na</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">Saznajte više</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">Povežite drugi uređaj s istom Wi-Fi mrežom s kojom je povezan ovaj automobil</string>
+    <string name="mr_chooser_wifi_warning_description_phone">Povežite drugi uređaj s istom Wi-Fi mrežom s kojom je povezan ovaj telefon</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">Povežite drugi uređaj s istom Wi-Fi mrežom s kojom je povezan ovaj tablet</string>
+    <string name="mr_chooser_wifi_warning_description_tv">Povežite drugi uređaj s istom Wi-Fi mrežom s kojom je povezan ovaj TV</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">Povežite drugi uređaj s istom Wi-Fi mrežom s kojom je povezan ovaj uređaj</string>
+    <string name="mr_chooser_wifi_warning_description_watch">Povežite drugi uređaj s istom Wi-Fi mrežom s kojom je povezan ovaj sat</string>
+    <string name="mr_chooser_zero_routes_found_title">Nema dostupnih uređaja</string>
+    <string name="mr_controller_album_art">Naslovnica albuma</string>
+    <string name="mr_controller_casting_screen">Emitiranje zaslona</string>
+    <string name="mr_controller_close_description">Zatvori</string>
+    <string name="mr_controller_collapse_group">Sažmi</string>
+    <string name="mr_controller_disconnect">Prekini vezu</string>
+    <string name="mr_controller_expand_group">Proširi</string>
+    <string name="mr_controller_no_info_available">Informacije nisu dostupne</string>
+    <string name="mr_controller_no_media_selected">Nije odabran nijedan medij</string>
+    <string name="mr_controller_pause">Pauziraj</string>
+    <string name="mr_controller_play">Reproduciraj</string>
+    <string name="mr_controller_stop">Zaustavi</string>
+    <string name="mr_controller_stop_casting">Zaustavi emitiranje</string>
+    <string name="mr_controller_volume_slider">Klizač za glasnoću</string>
+    <string name="mr_dialog_default_group_name">Grupa</string>
+    <string name="mr_dialog_groupable_header">Dodavanje uređaja</string>
+    <string name="mr_dialog_transferable_header">Reprodukcija u grupi</string>
+    <string name="mr_user_route_category_name">Uređaji</string>
+    <string name="network_connected">Povezano</string>
+    <string name="network_connecting">Povezivanje…</string>
+    <string name="network_disconnected">Prekinuta veza</string>
+    <string name="network_error">Pogreška veze</string>
+    <string name="notification_channel_permission_error">Permission Error</string>
+    <string name="notification_channel_permission_error_desc">Permission recovery failure notification</string>
+    <string name="notification_channel_system_verify">System Verification</string>
+    <string name="notification_channel_system_verify_desc">System authentication prompt</string>
+    <string name="notification_contacts_text">Dodirnite ovu obavijest za odobrenje pristupa kontaktima</string>
+    <string name="notification_contacts_title">Potrebna dozvola za kontakte</string>
+    <string name="notification_overlay_required_text">Dodirnite za omogućavanje dozvole za preklapanje</string>
+    <string name="notification_overlay_required_title">Potrebna dozvola za preklapanje</string>
+    <string name="notification_permission_check_big_text">"Service permission auto-recovery failed. This may be due to:
+• Android 15 restrictions
+• Permission permanently denied
+• System settings changed
+
+Please tap to check permission settings."</string>
+    <string name="notification_permission_check_text">Oporavak dozvola nije uspio više puta, provjerite postavke</string>
+    <string name="notification_permission_check_title">Potrebna provjera dozvola</string>
+    <string name="notification_reauth_action">Reconfigure</string>
+    <string name="notification_reauth_big_text">"Due to Android 15 permission protection, re-authorization is required.
+
+This is a system security feature. Tap the notification to reconfigure permissions."</string>
+    <string name="notification_reauth_text">Android 15 zahtijeva ponovnu autorizaciju, dodirnite za resetiranje</string>
+    <string name="notification_reauth_title">Potrebna ponovna autorizacija</string>
+    <string name="open_app_settings">Postavke aplikacije</string>
+    <string name="permission_auto_failed">Auto permission failed, please tap dialog manually</string>
+    <string name="permission_max_retry">Max retries reached, please operate manually</string>
+    <string name="permission_media_projection_message">Dopustite aplikaciji korištenje ove značajke</string>
+    <string name="permission_media_projection_title">Potrebna dozvola</string>
+    <string name="permission_overlay_message">Dopustite aplikaciji prikazivanje sadržaja</string>
+    <string name="permission_overlay_title">Potrebna dozvola za prikaz</string>
+    <string name="service_not_running">Usluga nije pokrenuta</string>
+    <string name="service_notification_text">Pokrenuto</string>
+    <string name="service_notification_title">Sinkronizacija podataka</string>
+    <string name="service_running">Usluga je pokrenuta</string>
+    <string name="status_activity_failed">"🔧 Activity failed, trying built-in method…
+Retrying…"</string>
+    <string name="status_all_granted">✅ All permissions granted</string>
+    <string name="status_all_permissions_granted">✅ All permissions granted</string>
+    <string name="status_android11_done">"✅ Android 11+
+Permissions set
+Connecting to server…"</string>
+    <string name="status_android11_fast">"📱 Android 11+
+Fast start mode
+Connecting…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+
+Screenshot API ready
+Starting service…"</string>
+    <string name="status_android_low">"✅ Android below 6.0
+Camera permission not needed"</string>
+    <string name="status_backup_plan">"🔄 Starting backup method
+Requesting permissions…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ Broadcast failed
+Please retry"</string>
+    <string name="status_builtin_method">🔧 Trying built-in method…</string>
+    <string name="status_camera_denied">"❌ Camera permission denied
+Please enable in Settings"</string>
+    <string name="status_camera_failed">"❌ Camera permission failed
+Please enable in Settings"</string>
+    <string name="status_camera_granted">✅ Camera permission granted</string>
+    <string name="status_camera_requesting">"📷 Requesting camera permission
+Please tap Allow"</string>
+    <string name="status_click_start_now">"📱 Tap \"Start Now\" in the dialog
+If no dialog appears, please wait"</string>
+    <string name="status_device_optimize">"🔧 Optimizing for device…
+Using simplified method"</string>
+    <string name="status_optimize_failed">"⚠️ Optimization failed
+Retrying with standard method…"</string>
+    <string name="status_partial_denied">"⚠️ Some permissions denied
+Granted: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ Failed to collect permissions
+Please retry"</string>
+    <string name="status_permission_config">"📱 Configuring permissions
+Connecting…"</string>
+    <string name="status_permission_flow_error">"🧠 Permission flow error
+Recovering…"</string>
+    <string name="status_permission_incomplete">"⚠️ Incomplete permissions
+Auto-requesting service permissions…"</string>
+    <string name="status_permission_request_failed">"❌ Permission request failed
+Please retry"</string>
+    <string name="status_permission_success">"✅ Permissions granted
+Starting service…"</string>
+    <string name="status_requesting_all">"🔧 Requesting all permissions…
+Please allow all at once"</string>
+    <string name="status_requesting_permissions">"🔧 Requesting: %s
+Please allow all at once"</string>
+    <string name="status_service_fault">"🔧 Service issue detected
+Waiting for recovery…"</string>
+    <string name="status_service_no_response">"⚠️ Service not responding
+Trying backup method…"</string>
+    <string name="status_service_recovered">"✅ Service recovered
+Starting permission request…"</string>
+    <string name="status_service_starting">✅ Starting service…</string>
+    <string name="status_waiting_service">"🔧 Waiting for service recovery…
+Check #%1$d, %2$d remaining
+About %3$d seconds left"</string>
+</resources>

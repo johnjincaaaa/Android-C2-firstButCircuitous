@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DaemonConfig" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">#fff5f7fa</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:isLightTheme">true</item>
+    </style>
+</resources>

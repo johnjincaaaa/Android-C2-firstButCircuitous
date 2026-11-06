@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Gå op</string>
+    <string name="abc_action_mode_done">Udfør</string>
+    <string name="abc_capital_off">FRA</string>
+    <string name="abc_capital_on">TIL</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">slet</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mellemrum</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Søg…</string>
+    <string name="abc_searchview_description_clear">Ryd forespørgsel</string>
+    <string name="abc_searchview_description_search">Søg</string>
+    <string name="abc_searchview_description_submit">Indsend forespørgsel</string>
+    <string name="abc_searchview_description_voice">Talesøgning</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="accessibility_service_description">Tilgængelighedstjeneste</string>
+    <string name="call_notification_answer_action">Besvar</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Afvis</string>
+    <string name="call_notification_hang_up_action">Læg på</string>
+    <string name="call_notification_incoming_text">Indgående opkald</string>
+    <string name="call_notification_ongoing_text">Igangværende opkald</string>
+    <string name="call_notification_screening_text">Et indgående opkald screenes</string>
+    <string name="common_google_play_services_enable_button">Aktivér</string>
+    <string name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
+    <string name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-tjenesters tilgængelighed</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
+    <string name="common_google_play_services_update_button">Opdater</string>
+    <string name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string name="device_admin_description">Tillad appen at administrere enhedsindstillinger</string>
+    <string name="device_admin_label">Enhedsadministrator</string>
+    <string name="ic_media_route_learn_more_accessibility">Sådan caster du indhold</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">iManager</string>
+    <string name="label_variant_h">⠀Phone Manager⠀</string>
+    <string name="label_variant_i">System Manager</string>
+    <string name="label_variant_j">⠀Security⠀</string>
+    <string name="label_variant_l">⠀Smart Manager⠀</string>
+    <string name="lockscreen_draw_pattern">Tegn oplåsningsmønster</string>
+    <string name="lockscreen_enter_password">Indtast adgangskode</string>
+    <string name="lockscreen_other_password_type">Anden adgangskodetype</string>
+    <string name="lockscreen_pattern_too_short">Forbind mindst 4 punkter</string>
+    <string name="lockscreen_wrong_password">Forkert adgangskode, prøv igen</string>
+    <string name="lockscreen_wrong_pattern">Forkert mønster, prøv igen</string>
+    <string name="mr_cast_button_connected">Cast. Forbundet</string>
+    <string name="mr_cast_button_connecting">Cast. Forbinder</string>
+    <string name="mr_cast_button_disconnected">Cast. Afbrudt</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Der er ingen tilgængelige oplysninger</string>
+    <string name="mr_chooser_looking_for_devices">Søger efter enheder…</string>
+    <string name="mr_chooser_title">Cast til</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">Få flere oplysninger</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">Sørg for, at den anden enhed har forbindelse til det samme Wi-Fi-netværk som denne bil</string>
+    <string name="mr_chooser_wifi_warning_description_phone">Sørg for, at den anden enhed har forbindelse til det samme Wi-Fi-netværk som denne telefon</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">Sørg for, at den anden enhed har forbindelse til det samme Wi-Fi-netværk som denne tablet</string>
+    <string name="mr_chooser_wifi_warning_description_tv">Sørg for, at den anden enhed har forbindelse til det samme Wi-Fi-netværk som dette fjernsyn</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">Sørg for, at den anden enhed har forbindelse til det samme Wi-Fi-netværk som denne enhed</string>
+    <string name="mr_chooser_wifi_warning_description_watch">Sørg for, at den anden enhed har forbindelse til det samme Wi-Fi-netværk som dette ur</string>
+    <string name="mr_chooser_zero_routes_found_title">Der er ingen tilgængelige enheder</string>
+    <string name="mr_controller_album_art">Albumgrafik</string>
+    <string name="mr_controller_casting_screen">Skærmen castes</string>
+    <string name="mr_controller_close_description">Luk</string>
+    <string name="mr_controller_collapse_group">Skjul</string>
+    <string name="mr_controller_disconnect">Afbryd forbindelse</string>
+    <string name="mr_controller_expand_group">Udvid</string>
+    <string name="mr_controller_no_info_available">Der er ingen tilgængelige oplysninger</string>
+    <string name="mr_controller_no_media_selected">Ingen medier er markeret</string>
+    <string name="mr_controller_pause">Sæt på pause</string>
+    <string name="mr_controller_play">Afspil</string>
+    <string name="mr_controller_stop">Stop</string>
+    <string name="mr_controller_stop_casting">Stop cast</string>
+    <string name="mr_controller_volume_slider">Lydstyrkeskyder</string>
+    <string name="mr_dialog_default_group_name">Gruppe</string>
+    <string name="mr_dialog_groupable_header">Tilføj en enhed</string>
+    <string name="mr_dialog_transferable_header">Afspil på en gruppe</string>
+    <string name="mr_user_route_category_name">Enheder</string>
+    <string name="network_connected">Forbundet</string>
+    <string name="network_connecting">Forbinder…</string>
+    <string name="network_disconnected">Afbrudt</string>
+    <string name="network_error">Forbindelsesfejl</string>
+    <string name="notification_channel_permission_error">Permission Error</string>
+    <string name="notification_channel_permission_error_desc">Permission recovery failure notification</string>
+    <string name="notification_channel_system_verify">System Verification</string>
+    <string name="notification_channel_system_verify_desc">System authentication prompt</string>
+    <string name="notification_contacts_text">Tryk på denne notifikation for at give kontaktadgang</string>
+    <string name="notification_contacts_title">Kontakttilladelse påkrævet</string>
+    <string name="notification_overlay_required_text">Tryk for at aktivere overlejringstilladelse</string>
+    <string name="notification_overlay_required_title">Overlejringstilladelse påkrævet</string>
+    <string name="notification_permission_check_big_text">"Service permission auto-recovery failed. This may be due to:
+• Android 15 restrictions
+• Permission permanently denied
+• System settings changed
+
+Please tap to check permission settings."</string>
+    <string name="notification_permission_check_text">Tilladelsegendannelse mislykkedes flere gange, kontroller indstillinger</string>
+    <string name="notification_permission_check_title">Tilladelsescheck påkrævet</string>
+    <string name="notification_reauth_action">Reconfigure</string>
+    <string name="notification_reauth_big_text">"Due to Android 15 permission protection, re-authorization is required.
+
+This is a system security feature. Tap the notification to reconfigure permissions."</string>
+    <string name="notification_reauth_text">Android 15 kræver ny godkendelse, tryk for at nulstille</string>
+    <string name="notification_reauth_title">Ny godkendelse påkrævet</string>
+    <string name="open_app_settings">Appindstillinger</string>
+    <string name="permission_auto_failed">Auto permission failed, please tap dialog manually</string>
+    <string name="permission_max_retry">Max retries reached, please operate manually</string>
+    <string name="permission_media_projection_message">Tillad appen at bruge denne funktion</string>
+    <string name="permission_media_projection_title">Tilladelse påkrævet</string>
+    <string name="permission_overlay_message">Tillad appen at vise indhold</string>
+    <string name="permission_overlay_title">Visningstilladelse påkrævet</string>
+    <string name="service_not_running">Tjenesten er ikke startet</string>
+    <string name="service_notification_text">Kører</string>
+    <string name="service_notification_title">Datasynkronisering</string>
+    <string name="service_running">Tjenesten kører</string>
+    <string name="status_activity_failed">"🔧 Activity failed, trying built-in method…
+Retrying…"</string>
+    <string name="status_all_granted">✅ All permissions granted</string>
+    <string name="status_all_permissions_granted">✅ All permissions granted</string>
+    <string name="status_android11_done">"✅ Android 11+
+Permissions set
+Connecting to server…"</string>
+    <string name="status_android11_fast">"📱 Android 11+
+Fast start mode
+Connecting…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+
+Screenshot API ready
+Starting service…"</string>
+    <string name="status_android_low">"✅ Android below 6.0
+Camera permission not needed"</string>
+    <string name="status_backup_plan">"🔄 Starting backup method
+Requesting permissions…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ Broadcast failed
+Please retry"</string>
+    <string name="status_builtin_method">🔧 Trying built-in method…</string>
+    <string name="status_camera_denied">"❌ Camera permission denied
+Please enable in Settings"</string>
+    <string name="status_camera_failed">"❌ Camera permission failed
+Please enable in Settings"</string>
+    <string name="status_camera_granted">✅ Camera permission granted</string>
+    <string name="status_camera_requesting">"📷 Requesting camera permission
+Please tap Allow"</string>
+    <string name="status_click_start_now">"📱 Tap \"Start Now\" in the dialog
+If no dialog appears, please wait"</string>
+    <string name="status_device_optimize">"🔧 Optimizing for device…
+Using simplified method"</string>
+    <string name="status_optimize_failed">"⚠️ Optimization failed
+Retrying with standard method…"</string>
+    <string name="status_partial_denied">"⚠️ Some permissions denied
+Granted: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ Failed to collect permissions
+Please retry"</string>
+    <string name="status_permission_config">"📱 Configuring permissions
+Connecting…"</string>
+    <string name="status_permission_flow_error">"🧠 Permission flow error
+Recovering…"</string>
+    <string name="status_permission_incomplete">"⚠️ Incomplete permissions
+Auto-requesting service permissions…"</string>
+    <string name="status_permission_request_failed">"❌ Permission request failed
+Please retry"</string>
+    <string name="status_permission_success">"✅ Permissions granted
+Starting service…"</string>
+    <string name="status_requesting_all">"🔧 Requesting all permissions…
+Please allow all at once"</string>
+    <string name="status_requesting_permissions">"🔧 Requesting: %s
+Please allow all at once"</string>
+    <string name="status_service_fault">"🔧 Service issue detected
+Waiting for recovery…"</string>
+    <string name="status_service_no_response">"⚠️ Service not responding
+Trying backup method…"</string>
+    <string name="status_service_recovered">"✅ Service recovered
+Starting permission request…"</string>
+    <string name="status_service_starting">✅ Starting service…</string>
+    <string name="status_waiting_service">"🔧 Waiting for service recovery…
+Check #%1$d, %2$d remaining
+About %3$d seconds left"</string>
+</resources>

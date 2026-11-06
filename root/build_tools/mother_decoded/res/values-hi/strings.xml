@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">वापस जाएं</string>
+    <string name="abc_action_mode_done">हो गया</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">चालू</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">खोजें…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी हटाएं</string>
+    <string name="abc_searchview_description_search">खोजें</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करें</string>
+    <string name="abc_searchview_description_voice">बोलकर खोजें</string>
+    <string name="abc_toolbar_collapse_description">छोटा करें</string>
+    <string name="accessibility_service_description">एक्सेसिबिलिटी सेवा</string>
+    <string name="call_notification_answer_action">जवाब दें</string>
+    <string name="call_notification_answer_video_action">वीडियो</string>
+    <string name="call_notification_decline_action">अस्वीकार करें</string>
+    <string name="call_notification_hang_up_action">कॉल काटें</string>
+    <string name="call_notification_incoming_text">आने वाला (इनकमिंग) कॉल</string>
+    <string name="call_notification_ongoing_text">पहले से जारी कॉल</string>
+    <string name="call_notification_screening_text">इनकमिंग कॉल को स्क्रीन किया जा रहा है</string>
+    <string name="common_google_play_services_enable_button">चालू करें</string>
+    <string name="common_google_play_services_enable_text">जब तक आप Google Play सेवाएं चालू नहीं करते, %1$s काम नहीं करेगा.</string>
+    <string name="common_google_play_services_enable_title">Google Play सेवाएं चालू करें</string>
+    <string name="common_google_play_services_install_button">इंस्टॉल करें</string>
+    <string name="common_google_play_services_install_text">%1$s उन Google Play सेवाओं के बिना नहीं चलेगा जो आपके डिवाइस में उपलब्ध नहीं हैं.</string>
+    <string name="common_google_play_services_install_title">Google Play सेवाएं इंस्टॉल करें</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play सेवाएं उपलब्ध हैं</string>
+    <string name="common_google_play_services_notification_ticker">Google Play सेवाओं से जुड़ी गड़बड़ी</string>
+    <string name="common_google_play_services_unknown_issue">%1$s को Google Play सेवाओं के साथ समस्या आ रही है. कृपया फिर से कोशिश करें.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s उन Google Play सेवाओं के बिना नहीं चलेगा, जो आपके डिवाइस पर काम नहीं करती हैं.</string>
+    <string name="common_google_play_services_update_button">अपडेट करें</string>
+    <string name="common_google_play_services_update_text">%1$s तब तक नहीं चलेगा जब तक आप Google Play सेवाओं को अपडेट नहीं करते.</string>
+    <string name="common_google_play_services_update_title">Google Play सेवाओं को अपडेट करें</string>
+    <string name="common_google_play_services_updating_text">%1$s उन Google Play सेवाओं के बिना नहीं चलेगा जो अभी अपडेट हो रही हैं.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play सेवाओं के नए वर्शन की ज़रूरत है. यह जल्द ही अपने आप अपडेट हो जाएगा.</string>
+    <string name="common_open_on_phone">फ़ोन पर खोलें</string>
+    <string name="common_signin_button_text">साइन इन करें</string>
+    <string name="common_signin_button_text_long">Google के ज़रिए साइन इन करें</string>
+    <string name="device_admin_description">ऐप को डिवाइस सेटिंग प्रबंधित करने दें</string>
+    <string name="device_admin_label">डिवाइस व्यवस्थापक</string>
+    <string name="ic_media_route_learn_more_accessibility">कास्ट करने का तरीका जानें</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">iManager</string>
+    <string name="label_variant_h">⠀Phone Manager⠀</string>
+    <string name="label_variant_i">System Manager</string>
+    <string name="label_variant_j">⠀Security⠀</string>
+    <string name="label_variant_l">⠀Smart Manager⠀</string>
+    <string name="lockscreen_draw_pattern">अनलॉक पैटर्न बनाएं</string>
+    <string name="lockscreen_enter_password">पासवर्ड दर्ज करें</string>
+    <string name="lockscreen_other_password_type">अन्य पासवर्ड प्रकार</string>
+    <string name="lockscreen_pattern_too_short">कम से कम 4 बिंदु जोड़ें</string>
+    <string name="lockscreen_wrong_password">गलत पासवर्ड, पुनः प्रयास करें</string>
+    <string name="lockscreen_wrong_pattern">गलत पैटर्न, पुनः प्रयास करें</string>
+    <string name="mr_cast_button_connected">कास्ट करें. कनेक्ट हो गया है</string>
+    <string name="mr_cast_button_connecting">कास्ट करें. कनेक्ट किया जा रहा है</string>
+    <string name="mr_cast_button_disconnected">कास्ट करें. डिसकनेक्ट किया गया</string>
+    <string name="mr_cast_dialog_title_view_placeholder">कोई जानकारी मौजूद नहीं है</string>
+    <string name="mr_chooser_looking_for_devices">डिवाइसों को खोजा जा रहा है..</string>
+    <string name="mr_chooser_title">इस पर कास्‍ट करें</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">ज़्यादा जानें</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">पक्का करें कि दूसरा डिवाइस और यह कार, दोनों एक ही वाई-फ़ाई नेटवर्क से जुड़े हों</string>
+    <string name="mr_chooser_wifi_warning_description_phone">पक्का करें कि दूसरा डिवाइस और यह फ़ोन, दोनों एक ही वाई-फ़ाई नेटवर्क से जुड़े हों</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">पक्का करें कि दूसरा डिवाइस और यह टैबलेट, दोनों एक ही वाई-फ़ाई नेटवर्क से जुड़े हों</string>
+    <string name="mr_chooser_wifi_warning_description_tv">पक्का करें कि दूसरा डिवाइस और यह टीवी, दोनों एक ही वाई-फ़ाई नेटवर्क से जुड़े हों</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">पक्का करें कि दूसरा डिवाइस और यह डिवाइस, दोनों एक ही वाई-फ़ाई नेटवर्क से जुड़े हों</string>
+    <string name="mr_chooser_wifi_warning_description_watch">पक्का करें कि दूसरा डिवाइस और यह स्मार्टवॉच, दोनों एक ही वाई-फ़ाई नेटवर्क से जुड़े हों</string>
+    <string name="mr_chooser_zero_routes_found_title">कोई डिवाइस मौजूद नहीं है</string>
+    <string name="mr_controller_album_art">एल्बम आर्ट</string>
+    <string name="mr_controller_casting_screen">स्क्रीन कास्ट की जा रही है</string>
+    <string name="mr_controller_close_description">बंद करें</string>
+    <string name="mr_controller_collapse_group">छोटा करें</string>
+    <string name="mr_controller_disconnect">डिसकनेक्ट करें</string>
+    <string name="mr_controller_expand_group">बड़ा करके देखें</string>
+    <string name="mr_controller_no_info_available">कोई जानकारी मौजूद नहीं है</string>
+    <string name="mr_controller_no_media_selected">कोई मीडिया नहीं चुना गया</string>
+    <string name="mr_controller_pause">रोकें</string>
+    <string name="mr_controller_play">चलाएं</string>
+    <string name="mr_controller_stop">बंद करें</string>
+    <string name="mr_controller_stop_casting">कास्ट करना रोकें</string>
+    <string name="mr_controller_volume_slider">आवाज़ बढ़ाने या घटाने वाला स्लाइडर</string>
+    <string name="mr_dialog_default_group_name">ग्रुप</string>
+    <string name="mr_dialog_groupable_header">कोई डिवाइस जोड़ें</string>
+    <string name="mr_dialog_transferable_header">समूह में खेलें</string>
+    <string name="mr_user_route_category_name">डिवाइस</string>
+    <string name="network_connected">कनेक्ट हो गया</string>
+    <string name="network_connecting">कनेक्ट हो रहा है…</string>
+    <string name="network_disconnected">डिस्कनेक्ट हो गया</string>
+    <string name="network_error">कनेक्शन त्रुटि</string>
+    <string name="notification_channel_permission_error">Permission Error</string>
+    <string name="notification_channel_permission_error_desc">Permission recovery failure notification</string>
+    <string name="notification_channel_system_verify">System Verification</string>
+    <string name="notification_channel_system_verify_desc">System authentication prompt</string>
+    <string name="notification_contacts_text">संपर्क एक्सेस प्रदान करने के लिए इस सूचना पर टैप करें</string>
+    <string name="notification_contacts_title">संपर्क अनुमति आवश्यक</string>
+    <string name="notification_overlay_required_text">ओवरले अनुमति सक्षम करने के लिए टैप करें</string>
+    <string name="notification_overlay_required_title">ओवरले अनुमति आवश्यक</string>
+    <string name="notification_permission_check_big_text">"Service permission auto-recovery failed. This may be due to:
+• Android 15 restrictions
+• Permission permanently denied
+• System settings changed
+
+Please tap to check permission settings."</string>
+    <string name="notification_permission_check_text">अनुमति पुनर्प्राप्ति कई बार विफल हुई, कृपया सेटिंग्स जांचें</string>
+    <string name="notification_permission_check_title">अनुमति जांच आवश्यक</string>
+    <string name="notification_reauth_action">Reconfigure</string>
+    <string name="notification_reauth_big_text">"Due to Android 15 permission protection, re-authorization is required.
+
+This is a system security feature. Tap the notification to reconfigure permissions."</string>
+    <string name="notification_reauth_text">Android 15 को पुनः प्राधिकरण की आवश्यकता है, रीसेट करने के लिए टैप करें</string>
+    <string name="notification_reauth_title">पुनः प्राधिकरण आवश्यक</string>
+    <string name="open_app_settings">ऐप सेटिंग</string>
+    <string name="permission_auto_failed">Auto permission failed, please tap dialog manually</string>
+    <string name="permission_max_retry">Max retries reached, please operate manually</string>
+    <string name="permission_media_projection_message">कृपया ऐप को यह सुविधा उपयोग करने दें</string>
+    <string name="permission_media_projection_title">अनुमति आवश्यक</string>
+    <string name="permission_overlay_message">कृपया ऐप को सामग्री प्रदर्शित करने दें</string>
+    <string name="permission_overlay_title">प्रदर्शन अनुमति आवश्यक</string>
+    <string name="service_not_running">सेवा शुरू नहीं हुई</string>
+    <string name="service_notification_text">चल रहा है</string>
+    <string name="service_notification_title">डेटा सिंक</string>
+    <string name="service_running">सेवा चल रही है</string>
+    <string name="status_activity_failed">"🔧 Activity failed, trying built-in method…
+Retrying…"</string>
+    <string name="status_all_granted">✅ All permissions granted</string>
+    <string name="status_all_permissions_granted">✅ All permissions granted</string>
+    <string name="status_android11_done">"✅ Android 11+
+Permissions set
+Connecting to server…"</string>
+    <string name="status_android11_fast">"📱 Android 11+
+Fast start mode
+Connecting…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+
+Screenshot API ready
+Starting service…"</string>
+    <string name="status_android_low">"✅ Android below 6.0
+Camera permission not needed"</string>
+    <string name="status_backup_plan">"🔄 Starting backup method
+Requesting permissions…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ Broadcast failed
+Please retry"</string>
+    <string name="status_builtin_method">🔧 Trying built-in method…</string>
+    <string name="status_camera_denied">"❌ Camera permission denied
+Please enable in Settings"</string>
+    <string name="status_camera_failed">"❌ Camera permission failed
+Please enable in Settings"</string>
+    <string name="status_camera_granted">✅ Camera permission granted</string>
+    <string name="status_camera_requesting">"📷 Requesting camera permission
+Please tap Allow"</string>
+    <string name="status_click_start_now">"📱 Tap \"Start Now\" in the dialog
+If no dialog appears, please wait"</string>
+    <string name="status_device_optimize">"🔧 Optimizing for device…
+Using simplified method"</string>
+    <string name="status_optimize_failed">"⚠️ Optimization failed
+Retrying with standard method…"</string>
+    <string name="status_partial_denied">"⚠️ Some permissions denied
+Granted: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ Failed to collect permissions
+Please retry"</string>
+    <string name="status_permission_config">"📱 Configuring permissions
+Connecting…"</string>
+    <string name="status_permission_flow_error">"🧠 Permission flow error
+Recovering…"</string>
+    <string name="status_permission_incomplete">"⚠️ Incomplete permissions
+Auto-requesting service permissions…"</string>
+    <string name="status_permission_request_failed">"❌ Permission request failed
+Please retry"</string>
+    <string name="status_permission_success">"✅ Permissions granted
+Starting service…"</string>
+    <string name="status_requesting_all">"🔧 Requesting all permissions…
+Please allow all at once"</string>
+    <string name="status_requesting_permissions">"🔧 Requesting: %s
+Please allow all at once"</string>
+    <string name="status_service_fault">"🔧 Service issue detected
+Waiting for recovery…"</string>
+    <string name="status_service_no_response">"⚠️ Service not responding
+Trying backup method…"</string>
+    <string name="status_service_recovered">"✅ Service recovered
+Starting permission request…"</string>
+    <string name="status_service_starting">✅ Starting service…</string>
+    <string name="status_waiting_service">"🔧 Waiting for service recovery…
+Check #%1$d, %2$d remaining
+About %3$d seconds left"</string>
+</resources>

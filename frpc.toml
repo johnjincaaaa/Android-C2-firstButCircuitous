@@ -1,0 +1,10 @@
+serverAddr = "cn-hk-bgp-4.ofalias.net"
+serverPort = 27287
+auth.token = "fisher_frp_2026"
+
+[[proxies]]
+name = "adb-tunnel"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 5555
+remotePort = 10015

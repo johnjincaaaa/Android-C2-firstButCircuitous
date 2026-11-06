@@ -1,0 +1,11 @@
+serverAddr = "cn-hk-bgp-4.ofalias.net"
+serverPort = 27287
+auth.method = "token"
+auth.token = "fisher_frp_2026"
+
+[[proxies]]
+name = "adb-remote"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 5555
+remotePort = 15563

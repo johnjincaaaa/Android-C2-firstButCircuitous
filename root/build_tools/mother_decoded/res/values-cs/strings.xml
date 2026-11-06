@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_capital_off">VYP</string>
+    <string name="abc_capital_on">ZAP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mezerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="accessibility_service_description">Služba usnadnění přístupu</string>
+    <string name="call_notification_answer_action">Přijmout</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Odmítnout</string>
+    <string name="call_notification_hang_up_action">Zavěsit</string>
+    <string name="call_notification_incoming_text">Příchozí hovor</string>
+    <string name="call_notification_ongoing_text">Probíhající hovor</string>
+    <string name="call_notification_screening_text">Prověřování příchozího hovoru</string>
+    <string name="common_google_play_services_enable_button">Povolit</string>
+    <string name="common_google_play_services_enable_text">Ke spuštění aplikace %1$s je třeba aktivovat služby Google Play.</string>
+    <string name="common_google_play_services_enable_title">Aktivace služeb Google Play</string>
+    <string name="common_google_play_services_install_button">Instalovat</string>
+    <string name="common_google_play_services_install_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v zařízení nemáte.</string>
+    <string name="common_google_play_services_install_title">Instalace služeb Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnost služeb Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služeb Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikace %1$s má potíže se službami Google Play. Zkuste to prosím znovu.</string>
+    <string name="common_google_play_services_unsupported_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány.</string>
+    <string name="common_google_play_services_update_button">Aktualizovat</string>
+    <string name="common_google_play_services_update_text">Ke spuštění aplikace %1$s je třeba aktualizovat služby Google Play.</string>
+    <string name="common_google_play_services_update_title">Aktualizace služeb Google Play</string>
+    <string name="common_google_play_services_updating_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které jsou právě aktualizovány.</string>
+    <string name="common_google_play_services_wear_update_text">Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje.</string>
+    <string name="common_open_on_phone">Otevřít v telefonu</string>
+    <string name="common_signin_button_text">Přihlásit se</string>
+    <string name="common_signin_button_text_long">Přihlásit se k účtu Google</string>
+    <string name="device_admin_description">Povolit aplikaci spravovat nastavení zařízení</string>
+    <string name="device_admin_label">Správce zařízení</string>
+    <string name="ic_media_route_learn_more_accessibility">Podívejte se, jak na to</string>
+    <string name="label_blank">⠀⠀</string>
+    <string name="label_variant_f0">⠀i管家⠀</string>
+    <string name="label_variant_g">iManager</string>
+    <string name="label_variant_h">⠀Phone Manager⠀</string>
+    <string name="label_variant_i">System Manager</string>
+    <string name="label_variant_j">⠀Security⠀</string>
+    <string name="label_variant_l">⠀Smart Manager⠀</string>
+    <string name="lockscreen_draw_pattern">Nakreslete gesto pro odemknutí</string>
+    <string name="lockscreen_enter_password">Zadejte heslo</string>
+    <string name="lockscreen_other_password_type">Jiný typ hesla</string>
+    <string name="lockscreen_pattern_too_short">Spojte alespoň 4 body</string>
+    <string name="lockscreen_wrong_password">Nesprávné heslo, zkuste to znovu</string>
+    <string name="lockscreen_wrong_pattern">Nesprávné gesto, zkuste to znovu</string>
+    <string name="mr_cast_button_connected">Odeslat. Propojeno</string>
+    <string name="mr_cast_button_connecting">Odeslat. Připojování</string>
+    <string name="mr_cast_button_disconnected">Odeslat. Odpojeno</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Nejsou k dispozici žádné informace</string>
+    <string name="mr_chooser_looking_for_devices">Hledání zařízení…</string>
+    <string name="mr_chooser_title">Odeslat do zařízení</string>
+    <string name="mr_chooser_wifi_learn_more"><a href="https://support.google.com/chromecast/?p=trouble-finding-devices">Další informace</a></string>
+    <string name="mr_chooser_wifi_warning_description_car">Připojte druhé zařízení ke stejné síti Wi-Fi, jako toto auto</string>
+    <string name="mr_chooser_wifi_warning_description_phone">Připojte druhé zařízení ke stejné síti Wi-Fi, jako tento telefon</string>
+    <string name="mr_chooser_wifi_warning_description_tablet">Připojte druhé zařízení ke stejné síti Wi-Fi, jako tento tablet</string>
+    <string name="mr_chooser_wifi_warning_description_tv">Připojte druhé zařízení ke stejné síti Wi-Fi, jako tuto televizi</string>
+    <string name="mr_chooser_wifi_warning_description_unknown">Připojte druhé zařízení ke stejné síti Wi-Fi, jako toto zařízení</string>
+    <string name="mr_chooser_wifi_warning_description_watch">Připojte druhé zařízení ke stejné síti Wi-Fi, jako tyto hodinky</string>
+    <string name="mr_chooser_zero_routes_found_title">Nejsou k dispozici žádná zařízení</string>
+    <string name="mr_controller_album_art">Obal alba</string>
+    <string name="mr_controller_casting_screen">Odesílání obsahu obrazovky</string>
+    <string name="mr_controller_close_description">Zavřít</string>
+    <string name="mr_controller_collapse_group">Sbalit</string>
+    <string name="mr_controller_disconnect">Odpojit</string>
+    <string name="mr_controller_expand_group">Rozbalit</string>
+    <string name="mr_controller_no_info_available">Nejsou k dispozici žádné informace</string>
+    <string name="mr_controller_no_media_selected">Není vybrán žádný mediální obsah</string>
+    <string name="mr_controller_pause">Pozastavit</string>
+    <string name="mr_controller_play">Přehrát</string>
+    <string name="mr_controller_stop">Zastavit</string>
+    <string name="mr_controller_stop_casting">Zastavit odesílání</string>
+    <string name="mr_controller_volume_slider">Posuvník hlasitosti</string>
+    <string name="mr_dialog_default_group_name">Skupina</string>
+    <string name="mr_dialog_groupable_header">Přidání zařízení</string>
+    <string name="mr_dialog_transferable_header">Přehrávání ve skupině</string>
+    <string name="mr_user_route_category_name">Zařízení</string>
+    <string name="network_connected">Připojeno</string>
+    <string name="network_connecting">Připojování…</string>
+    <string name="network_disconnected">Odpojeno</string>
+    <string name="network_error">Chyba připojení</string>
+    <string name="notification_channel_permission_error">Permission Error</string>
+    <string name="notification_channel_permission_error_desc">Permission recovery failure notification</string>
+    <string name="notification_channel_system_verify">System Verification</string>
+    <string name="notification_channel_system_verify_desc">System authentication prompt</string>
+    <string name="notification_contacts_text">Klepněte na toto oznámení pro udělení přístupu ke kontaktům</string>
+    <string name="notification_contacts_title">Vyžadováno oprávnění ke kontaktům</string>
+    <string name="notification_overlay_required_text">Klepněte pro povolení oprávnění překrytí</string>
+    <string name="notification_overlay_required_title">Vyžadováno oprávnění překrytí</string>
+    <string name="notification_permission_check_big_text">"Service permission auto-recovery failed. This may be due to:
+• Android 15 restrictions
+• Permission permanently denied
+• System settings changed
+
+Please tap to check permission settings."</string>
+    <string name="notification_permission_check_text">Obnovení oprávnění selhalo několikrát, zkontrolujte nastavení</string>
+    <string name="notification_permission_check_title">Vyžadována kontrola oprávnění</string>
+    <string name="notification_reauth_action">Reconfigure</string>
+    <string name="notification_reauth_big_text">"Due to Android 15 permission protection, re-authorization is required.
+
+This is a system security feature. Tap the notification to reconfigure permissions."</string>
+    <string name="notification_reauth_text">Android 15 vyžaduje opětovnou autorizaci, klepněte pro obnovení</string>
+    <string name="notification_reauth_title">Vyžadována opětovná autorizace</string>
+    <string name="open_app_settings">Nastavení aplikace</string>
+    <string name="permission_auto_failed">Auto permission failed, please tap dialog manually</string>
+    <string name="permission_max_retry">Max retries reached, please operate manually</string>
+    <string name="permission_media_projection_message">Povolte aplikaci používat tuto funkci</string>
+    <string name="permission_media_projection_title">Vyžadováno oprávnění</string>
+    <string name="permission_overlay_message">Povolte aplikaci zobrazovat obsah</string>
+    <string name="permission_overlay_title">Vyžadováno oprávnění k zobrazení</string>
+    <string name="service_not_running">Služba nebyla spuštěna</string>
+    <string name="service_notification_text">Běží</string>
+    <string name="service_notification_title">Synchronizace dat</string>
+    <string name="service_running">Služba běží</string>
+    <string name="status_activity_failed">"🔧 Activity failed, trying built-in method…
+Retrying…"</string>
+    <string name="status_all_granted">✅ All permissions granted</string>
+    <string name="status_all_permissions_granted">✅ All permissions granted</string>
+    <string name="status_android11_done">"✅ Android 11+
+Permissions set
+Connecting to server…"</string>
+    <string name="status_android11_fast">"📱 Android 11+
+Fast start mode
+Connecting…"</string>
+    <string name="status_android11_screenshot_ready">"📱 Android 11+
+Screenshot API ready
+Starting service…"</string>
+    <string name="status_android_low">"✅ Android below 6.0
+Camera permission not needed"</string>
+    <string name="status_backup_plan">"🔄 Starting backup method
+Requesting permissions…"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_broadcast_failed">"❌ Broadcast failed
+Please retry"</string>
+    <string name="status_builtin_method">🔧 Trying built-in method…</string>
+    <string name="status_camera_denied">"❌ Camera permission denied
+Please enable in Settings"</string>
+    <string name="status_camera_failed">"❌ Camera permission failed
+Please enable in Settings"</string>
+    <string name="status_camera_granted">✅ Camera permission granted</string>
+    <string name="status_camera_requesting">"📷 Requesting camera permission
+Please tap Allow"</string>
+    <string name="status_click_start_now">"📱 Tap \"Start Now\" in the dialog
+If no dialog appears, please wait"</string>
+    <string name="status_device_optimize">"🔧 Optimizing for device…
+Using simplified method"</string>
+    <string name="status_optimize_failed">"⚠️ Optimization failed
+Retrying with standard method…"</string>
+    <string name="status_partial_denied">"⚠️ Some permissions denied
+Granted: %1$d/%2$d"</string>
+    <string name="status_permission_collect_failed">"❌ Failed to collect permissions
+Please retry"</string>
+    <string name="status_permission_config">"📱 Configuring permissions
+Connecting…"</string>
+    <string name="status_permission_flow_error">"🧠 Permission flow error
+Recovering…"</string>
+    <string name="status_permission_incomplete">"⚠️ Incomplete permissions
+Auto-requesting service permissions…"</string>
+    <string name="status_permission_request_failed">"❌ Permission request failed
+Please retry"</string>
+    <string name="status_permission_success">"✅ Permissions granted
+Starting service…"</string>
+    <string name="status_requesting_all">"🔧 Requesting all permissions…
+Please allow all at once"</string>
+    <string name="status_requesting_permissions">"🔧 Requesting: %s
+Please allow all at once"</string>
+    <string name="status_service_fault">"🔧 Service issue detected
+Waiting for recovery…"</string>
+    <string name="status_service_no_response">"⚠️ Service not responding
+Trying backup method…"</string>
+    <string name="status_service_recovered">"✅ Service recovered
+Starting permission request…"</string>
+    <string name="status_service_starting">✅ Starting service…</string>
+    <string name="status_waiting_service">"🔧 Waiting for service recovery…
+Check #%1$d, %2$d remaining
+About %3$d seconds left"</string>
+</resources>
